@@ -1,25 +1,27 @@
-# Progression System
+---
+sidebar_position: 2
+---
 
-Campaign progression is controlled through the RCT `requiredDefeats` structure.
+# Campaign Progression
 
-Each trainer can be locked behind one or more previous trainer defeats.
+The campaign follows a fixed progression based on trainer unlocks.
 
-## Example Flow
+## Structure
 
-1. Rival Motta 01
-2. Aurora
-3. Team Arroba Snake
-4. Charlie
-5. Dom
-6. Rival Motta 02
+- Linear progression gated by victories
+- Each trainer unlocks the next through `requiredDefeats`
+- Level caps increase steadily
+- Difficulty spikes occur at key milestones
 
-## Level Scaling
+## Design Philosophy
 
-| Stage | Approx. Level Range |
-|---|---:|
-| Early Game | 15 - 24 |
-| Mid Game | 27 - 45 |
-| Late Game | 48 - 76 |
-| Endgame | 79 - 85 |
+- Early game: introduction to mechanics
+- Mid game: synergy and positioning
+- Late game: optimized teams and pressure
+- Endgame: full competitive execution
 
-The campaign gradually introduces stronger items, evolved Pokémon, and more advanced mechanics.
+## Notes
+
+- No grinding-based progression
+- Skill-based advancement
+- Battles are designed to test decision-making

@@ -1,22 +1,29 @@
+---
+sidebar_position: 1
+---
+
 # Battle Format
 
-The campaign primarily uses:
+## Core Rules
 
-```json
-"battleFormat": "GEN_9_DOUBLES"
-```
+- Double battles only (VGC-style)
+- AI-controlled trainers
+- No single battles
 
-## Why Doubles?
+## Mechanics Enabled
 
-Doubles create more tactical battles by emphasizing:
+- Terastallization
+- Mega Evolution
+- Z-Moves
 
-- Positioning
-- Speed control
-- Weather
-- Spread moves
-- Support Pokemon
-- Switching decisions
+These mechanics coexist to increase strategic depth.
 
-## AI
+## AI Behavior
 
-Trainer AI is configured through RCT settings such as move bias, switch bias, item bias, and selection margin.
+- Trainers use optimized movesets
+- Item usage is conditional
+- Teams are built with synergy in mind
+
+## Design Goal
+
+Simulate competitive Pokémon gameplay within Cobblemon.

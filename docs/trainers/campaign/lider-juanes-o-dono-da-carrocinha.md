@@ -1,0 +1,186 @@
+---
+title: Juanes, O Dono da Carrocinha
+---
+
+# Juanes, O Dono da Carrocinha
+
+## Encounter Overview
+
+| Field | Value |
+|---|---|
+| Trainer ID | `tdc_lider_juanes_o_dono_da_carrocinha` |
+| Category | Leader |
+| Campaign Order | 9 / 26 |
+| Level Cap | 39 |
+| Battle Format | `GEN_9_DOUBLES` |
+| Difficulty | ★★★☆☆ |
+| Archetype | High-tempo offensive pressure |
+| Unlock Requirement | `tdc_team_arroba_vinny` |
+| Healing Bag | Hyper Potion x2 |
+
+## Team
+
+### 1. Zoroark (Zoroark)
+
+| Field | Value |
+|---|---|
+| Species | `zoroark` |
+| Nickname | — |
+| Gender | MALE |
+| Level | 39 |
+| Shiny | Yes |
+| Ability | Illusion |
+| Held Item | Choice Specs |
+| Nature | Timid |
+| EVs | 252 SpA / 4 SpD / 248 Spe |
+| IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
+| Gimmicks | — |
+
+**Moveset**
+
+  - Hypervoice
+  - Bittermalice
+  - Psychic
+  - Sludgebomb
+### 2. Lycanroc (Lycanroc)
+
+| Field | Value |
+|---|---|
+| Species | `lycanroc` |
+| Nickname | — |
+| Gender | MALE |
+| Level | 39 |
+| Shiny | Yes |
+| Ability | Noguard |
+| Held Item | Lycanium Z |
+| Nature | Jolly |
+| EVs | 252 Atk / 8 SpD / 248 Spe |
+| IVs | 31 all |
+| Gimmicks | — |
+
+**Moveset**
+
+  - Playrough
+  - Stoneedge
+  - Irontail
+  - Megakick
+### 3. Luxray (Luxray)
+
+| Field | Value |
+|---|---|
+| Species | `luxray` |
+| Nickname | — |
+| Gender | MALE |
+| Level | 39 |
+| Shiny | Yes |
+| Ability | Intimidate |
+| Held Item | Choice Band |
+| Nature | Adamant |
+| EVs | 252 Atk / 4 SpD / 252 Spe |
+| IVs | 31 all |
+| Gimmicks | — |
+
+**Moveset**
+
+  - Supercellslam
+  - Agility
+  - Thunderwave
+  - Throatchop
+### 4. Pyroar (Pyroar)
+
+| Field | Value |
+|---|---|
+| Species | `pyroar` |
+| Nickname | — |
+| Gender | MALE |
+| Level | 39 |
+| Shiny | Yes |
+| Ability | Rivalry |
+| Held Item | Pyroarite |
+| Nature | Timid |
+| EVs | 12 HP / 252 SpA / 244 Spe |
+| IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
+| Gimmicks | — |
+
+**Moveset**
+
+  - Darkpulse
+  - Flamethrower
+  - Hypervoice
+  - Willowisp
+### 5. Houndstone (Houndstone)
+
+| Field | Value |
+|---|---|
+| Species | `houndstone` |
+| Nickname | — |
+| Gender | MALE |
+| Level | 39 |
+| Shiny | No |
+| Ability | Fluffy |
+| Held Item | Assault Vest |
+| Nature | Adamant |
+| EVs | 244 HP / 248 Atk / 16 SpD |
+| IVs | 31 all |
+| Gimmicks | tera: water |
+
+**Moveset**
+
+  - Lastrespects
+  - Poltergeist
+  - Icefang
+  - Firefang
+### 6. Mabosstiff (Mabosstiff)
+
+| Field | Value |
+|---|---|
+| Species | `mabosstiff` |
+| Nickname | — |
+| Gender | MALE |
+| Level | 39 |
+| Shiny | Yes |
+| Ability | Guarddog |
+| Held Item | Life Orb |
+| Nature | Jolly |
+| EVs | 252 Atk / 4 SpD / 244 Spe |
+| IVs | 31 all |
+| Gimmicks | — |
+
+**Moveset**
+
+  - Crunch
+  - Psychicfangs
+  - Trailblaze
+  - Bodyslam
+
+
+## Competitive Analysis
+
+### Game Plan
+
+- Speed control tools: Agility, Thunderwave, Trailblaze.
+- Spread damage is a major pressure point through Hypervoice.
+
+### Win Conditions
+
+- Setup-based win conditions are present: Agility.
+
+### Threat Profile
+
+- Choice items create immediate damage or speed pressure, but can be punished through positioning.
+- Assault Vest users improve special bulk and make neutral trades harder.
+- Life Orb attackers increase burst damage at the cost of recoil.
+- Z-Move access creates one-time burst turns that can remove key defensive pieces.
+- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+
+### Player Preparation Notes
+
+- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
+- Identify the most important tempo piece early, then either remove it or force it into defensive play.
+- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
+- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+
+## Technical Notes
+
+- Source trainer file: `data/rctmod/trainers/tdc_lider_juanes_o_dono_da_carrocinha.json`
+- Source progression file: `data/rctmod/mobs/trainers/single/tdc_lider_juanes_o_dono_da_carrocinha.json`

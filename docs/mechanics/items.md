@@ -1,18 +1,25 @@
-# Item System
+---
+sidebar_position: 2
+---
 
-Trainer healing items scale with campaign progression.
+# Item Scaling
 
-| Campaign Stage | Typical Healing Item |
-|---|---|
-| Early Game | Super Potion |
-| Mid Game | Hyper Potion |
-| Late Game | Max Potion |
-| Endgame | Full Restore |
+Trainer item usage scales with progression:
 
-Item usage can be limited through:
+## Early Game
+- Super Potion
 
-```json
-"maxItemUses": 2
-```
+## Mid Game
+- Hyper Potion
 
-Held items are part of each trainer's battle identity and may include competitive items, Z-Crystals, Mega Stones, berries, and utility items.
+## Late Game
+- Max Potion
+
+## Endgame
+- Full Restore
+
+## Purpose
+
+- Maintain difficulty consistency
+- Prevent trivialization of battles
+- Increase endurance requirements
