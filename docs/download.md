@@ -17,5 +17,5 @@
 
 ## Links
 
-- Modrinth: Coming soon
-- GitHub: Coming soon
+- Modrinth: [Modrinth](https://modrinth.com/mod/owls-nest-rct-campaign)
+- GitHub: [GitHub](https://github.com/mottameister/owls-nest-wiki)

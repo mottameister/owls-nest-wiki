@@ -51,6 +51,7 @@ const sidebars = {
       items: ['mechanics/battle-format', 'mechanics/items'],
     },
     'download',
+    'roadmap',
   ],
 };
 
