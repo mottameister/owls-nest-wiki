@@ -20,10 +20,6 @@ const config = {
     locales: ['en'],
   
   },
-  metadata: [
-  { name: 'keywords', content: 'Cobblemon, Minecraft Pokemon mod, VGC battles, Cobblemon trainers, Radical Cobblemon Trainers' },
-  { name: 'description', content: "Owl's Nest is a competitive Cobblemon campaign featuring structured progression, VGC-style battles, and custom trainers." },
-  ],
 
   presets: [
     [
@@ -61,6 +57,11 @@ const config = {
 ],
 
   themeConfig: {
+    
+  metadata: [
+  { name: 'keywords', content: 'Cobblemon, Minecraft Pokemon mod, VGC battles, Cobblemon trainers, Radical Cobblemon Trainers' },
+  { name: 'description', content: "Owl's Nest is a competitive Cobblemon campaign featuring structured progression, VGC-style battles, and custom trainers." },
+  ],
     image: 'img/social-card.png',
     colorMode: {
       respectPrefersColorScheme: true,
