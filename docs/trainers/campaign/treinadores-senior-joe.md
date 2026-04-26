@@ -22,6 +22,9 @@ title: Senior Joe
 
 ### 1. Blastoise (Blastoise)
 
+<img className="pokemon-sprite" src="/img/pokemon/blastoise.png" alt="Blastoise sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `blastoise` |
@@ -43,6 +46,9 @@ title: Senior Joe
   - Darkpulse
   - Aurasphere
 ### 2. Gyarados (Gyarados)
+
+<img className="pokemon-sprite" src="/img/pokemon/gyarados.png" alt="Gyarados sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Senior Joe
   - Icefang
 ### 3. Alakazam (Alakazam)
 
+<img className="pokemon-sprite" src="/img/pokemon/alakazam.png" alt="Alakazam sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `alakazam` |
@@ -87,6 +96,9 @@ title: Senior Joe
   - Shadowball
   - Energyball
 ### 4. Snorlax (Snorlax)
+
+<img className="pokemon-sprite" src="/img/pokemon/snorlax.png" alt="Snorlax sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Senior Joe
   - Sleeptalk
 ### 5. Arcanine (Arcanine)
 
+<img className="pokemon-sprite" src="/img/pokemon/arcanine.png" alt="Arcanine sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `arcanine` |
@@ -131,6 +146,9 @@ title: Senior Joe
   - Flareblitz
   - Wildcharge
 ### 6. Mewtwo (Mewtwo)
+
+<img className="pokemon-sprite" src="/img/pokemon/mewtwo.png" alt="Mewtwo sprite" />
+
 
 | Field | Value |
 |---|---|

@@ -22,6 +22,9 @@ title: Aurora, A Rainha Morcego
 
 ### 1. Noibat (Noibat)
 
+<img className="pokemon-sprite" src="/img/pokemon/noibat.png" alt="Noibat sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `noibat` |
@@ -43,6 +46,9 @@ title: Aurora, A Rainha Morcego
   - Dragonpulse
   - Airslash
 ### 2. Zubat (Zubat)
+
+<img className="pokemon-sprite" src="/img/pokemon/zubat.png" alt="Zubat sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Aurora, A Rainha Morcego
   - Uturn
 ### 3. Gligar (Gligar)
 
+<img className="pokemon-sprite" src="/img/pokemon/gligar.png" alt="Gligar sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `gligar` |
@@ -87,6 +96,9 @@ title: Aurora, A Rainha Morcego
   - Psychicfangs
   - Crabhammer
 ### 4. Swoobat (Swoobat)
+
+<img className="pokemon-sprite" src="/img/pokemon/swoobat.png" alt="Swoobat sprite" />
+
 
 | Field | Value |
 |---|---|

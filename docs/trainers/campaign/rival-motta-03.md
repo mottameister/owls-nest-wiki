@@ -22,6 +22,9 @@ title: Rival Motta 03
 
 ### 1. Mr. X (Pupitar)
 
+<img className="pokemon-sprite" src="/img/pokemon/pupitar.png" alt="Pupitar sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `pupitar` |
@@ -43,6 +46,9 @@ title: Rival Motta 03
   - Sandstorm
   - Pursuit
 ### 2. Quesadrillas (Excadrill)
+
+<img className="pokemon-sprite" src="/img/pokemon/excadrill.png" alt="Excadrill sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Rival Motta 03
   - Rockslide
 ### 3. Pteros (Aerodactyl)
 
+<img className="pokemon-sprite" src="/img/pokemon/aerodactyl.png" alt="Aerodactyl sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `aerodactyl` |
@@ -87,6 +96,9 @@ title: Rival Motta 03
   - Rockslide
   - Doubleedge
 ### 4. Shark Boy (Gabite)
+
+<img className="pokemon-sprite" src="/img/pokemon/gabite.png" alt="Gabite sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Rival Motta 03
   - Metalclaw
 ### 5. Nidokong (Nidoking)
 
+<img className="pokemon-sprite" src="/img/pokemon/nidoking.png" alt="Nidoking sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `nidoking` |
@@ -131,6 +146,9 @@ title: Rival Motta 03
   - Thunderbolt
   - Icebeam
 ### 6. Scott (Lycanroc)
+
+<img className="pokemon-sprite" src="/img/pokemon/lycanroc.png" alt="Lycanroc sprite" />
+
 
 | Field | Value |
 |---|---|

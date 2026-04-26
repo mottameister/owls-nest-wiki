@@ -22,6 +22,9 @@ title: Dada, O Faixa Preta
 
 ### 1. Hariyama (Hariyama)
 
+<img className="pokemon-sprite" src="/img/pokemon/hariyama.png" alt="Hariyama sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `hariyama` |
@@ -43,6 +46,9 @@ title: Dada, O Faixa Preta
   - Fakeout
   - Knockoff
 ### 2. Machamp (Machamp)
+
+<img className="pokemon-sprite" src="/img/pokemon/machamp.png" alt="Machamp sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Dada, O Faixa Preta
   - Megakick
 ### 3. Conkeldurr (Conkeldurr)
 
+<img className="pokemon-sprite" src="/img/pokemon/conkeldurr.png" alt="Conkeldurr sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `conkeldurr` |
@@ -87,6 +96,9 @@ title: Dada, O Faixa Preta
   - Poweruppunch
   - Rockslide
 ### 4. Gallade (Gallade)
+
+<img className="pokemon-sprite" src="/img/pokemon/gallade.png" alt="Gallade sprite" />
+
 
 | Field | Value |
 |---|---|

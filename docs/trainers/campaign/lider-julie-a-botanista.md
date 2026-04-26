@@ -22,6 +22,9 @@ title: Julie, A Botanista
 
 ### 1. Rillaboom (Rillaboom)
 
+<img className="pokemon-sprite" src="/img/pokemon/rillaboom.png" alt="Rillaboom sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `rillaboom` |
@@ -43,6 +46,9 @@ title: Julie, A Botanista
   - Uturn
   - Bodypress
 ### 2. Ferrothorn (Ferrothorn)
+
+<img className="pokemon-sprite" src="/img/pokemon/ferrothorn.png" alt="Ferrothorn sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Julie, A Botanista
   - Spikes
 ### 3. Hydrapple (Hydrapple)
 
+<img className="pokemon-sprite" src="/img/pokemon/hydrapple.png" alt="Hydrapple sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `hydrapple` |
@@ -87,6 +96,9 @@ title: Julie, A Botanista
   - Earthpower
   - Terablast
 ### 4. Meowscarada (Meowscarada)
+
+<img className="pokemon-sprite" src="/img/pokemon/meowscarada.png" alt="Meowscarada sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Julie, A Botanista
   - Thunderpunch
 ### 5. Breloom (Breloom)
 
+<img className="pokemon-sprite" src="/img/pokemon/breloom.png" alt="Breloom sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `breloom` |
@@ -131,6 +146,9 @@ title: Julie, A Botanista
   - Spore
   - Poweruppunch
 ### 6. Meganium (Meganium)
+
+<img className="pokemon-sprite" src="/img/pokemon/meganium.png" alt="Meganium sprite" />
+
 
 | Field | Value |
 |---|---|

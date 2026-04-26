@@ -22,6 +22,9 @@ title: Elite 4 Victão
 
 ### 1. Whimsicott (Whimsicott)
 
+<img className="pokemon-sprite" src="/img/pokemon/whimsicott.png" alt="Whimsicott sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `whimsicott` |
@@ -43,6 +46,9 @@ title: Elite 4 Victão
   - Taunt
   - Moonblast
 ### 2. Incineroar (Incineroar)
+
+<img className="pokemon-sprite" src="/img/pokemon/incineroar.png" alt="Incineroar sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Elite 4 Victão
   - Uturn
 ### 3. Fluttermane (Fluttermane)
 
+<img className="pokemon-sprite" src="/img/pokemon/fluttermane.png" alt="Fluttermane sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `fluttermane` |
@@ -87,6 +96,9 @@ title: Elite 4 Victão
   - Protect
   - Icywind
 ### 4. Urshifu (Urshifu)
+
+<img className="pokemon-sprite" src="/img/pokemon/urshifu.png" alt="Urshifu sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Elite 4 Victão
   - Uturn
 ### 5. Regieleki (Regieleki)
 
+<img className="pokemon-sprite" src="/img/pokemon/regieleki.png" alt="Regieleki sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `regieleki` |
@@ -131,6 +146,9 @@ title: Elite 4 Victão
   - Voltswitch
   - Protect
 ### 6. Rayquaza (Rayquaza)
+
+<img className="pokemon-sprite" src="/img/pokemon/rayquaza.png" alt="Rayquaza sprite" />
+
 
 | Field | Value |
 |---|---|

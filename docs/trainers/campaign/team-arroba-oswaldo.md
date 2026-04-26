@@ -22,6 +22,9 @@ title: Team Arroba Oswaldo
 
 ### 1. Sneasler (Sneasler)
 
+<img className="pokemon-sprite" src="/img/pokemon/sneasler.png" alt="Sneasler sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `sneasler` |
@@ -43,6 +46,9 @@ title: Team Arroba Oswaldo
   - Swordsdance
   - Throatchop
 ### 2. Toxapex (Toxapex)
+
+<img className="pokemon-sprite" src="/img/pokemon/toxapex.png" alt="Toxapex sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Team Arroba Oswaldo
   - Liquidation
 ### 3. Iron Moth (Iron Moth)
 
+<img className="pokemon-sprite" src="/img/pokemon/iron_moth.png" alt="Iron Moth sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `iron_moth` |
@@ -87,6 +96,9 @@ title: Team Arroba Oswaldo
   - Sludgewave
   - Discharge
 ### 4. Gengar (Gengar)
+
+<img className="pokemon-sprite" src="/img/pokemon/gengar.png" alt="Gengar sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Team Arroba Oswaldo
   - Thunderbolt
 ### 5. Nidoqueen (Nidoqueen)
 
+<img className="pokemon-sprite" src="/img/pokemon/nidoqueen.png" alt="Nidoqueen sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `nidoqueen` |
@@ -131,6 +146,9 @@ title: Team Arroba Oswaldo
   - Icebeam
   - Sludgewave
 ### 6. Dragalge (Dragalge)
+
+<img className="pokemon-sprite" src="/img/pokemon/dragalge.png" alt="Dragalge sprite" />
+
 
 | Field | Value |
 |---|---|

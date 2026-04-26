@@ -22,6 +22,9 @@ title: Dom
 
 ### 1. Jolteon (Jolteon)
 
+<img className="pokemon-sprite" src="/img/pokemon/jolteon.png" alt="Jolteon sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `jolteon` |
@@ -43,6 +46,9 @@ title: Dom
   - Shadowball
   - Voltswitch
 ### 2. Flareon (Flareon)
+
+<img className="pokemon-sprite" src="/img/pokemon/flareon.png" alt="Flareon sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Dom
   - Willowisp
 ### 3. Umbreon (Umbreon)
 
+<img className="pokemon-sprite" src="/img/pokemon/umbreon.png" alt="Umbreon sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `umbreon` |
@@ -87,6 +96,9 @@ title: Dom
   - Suckerpunch
   - Return
 ### 4. Leafeon (Leafeon)
+
+<img className="pokemon-sprite" src="/img/pokemon/leafeon.png" alt="Leafeon sprite" />
+
 
 | Field | Value |
 |---|---|

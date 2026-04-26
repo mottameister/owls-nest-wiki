@@ -22,6 +22,9 @@ title: Elite 4 Peteca
 
 ### 1. Chienpao (Chienpao)
 
+<img className="pokemon-sprite" src="/img/pokemon/chienpao.png" alt="Chienpao sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `chienpao` |
@@ -43,6 +46,9 @@ title: Elite 4 Peteca
   - Suckerpunch
   - Swordsdance
 ### 2. Tinglu (Tinglu)
+
+<img className="pokemon-sprite" src="/img/pokemon/tinglu.png" alt="Tinglu sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Elite 4 Peteca
   - Bulldoze
 ### 3. Greninja (Greninja)
 
+<img className="pokemon-sprite" src="/img/pokemon/greninja.png" alt="Greninja sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `greninja` |
@@ -87,6 +96,9 @@ title: Elite 4 Peteca
   - Sludgewave
   - Terablast
 ### 4. Roaringmoon (Roaringmoon)
+
+<img className="pokemon-sprite" src="/img/pokemon/roaringmoon.png" alt="Roaringmoon sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Elite 4 Peteca
   - Ironhead
 ### 5. Sharpedo (Sharpedo)
 
+<img className="pokemon-sprite" src="/img/pokemon/sharpedo.png" alt="Sharpedo sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `sharpedo` |
@@ -131,6 +146,9 @@ title: Elite 4 Peteca
   - Psychicfangs
   - Poisonfang
 ### 6. Kingambit (Kingambit)
+
+<img className="pokemon-sprite" src="/img/pokemon/kingambit.png" alt="Kingambit sprite" />
+
 
 | Field | Value |
 |---|---|

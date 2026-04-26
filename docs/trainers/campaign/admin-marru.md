@@ -22,6 +22,9 @@ title: Admin Marru
 
 ### 1. Miraidon (Miraidon)
 
+<img className="pokemon-sprite" src="/img/pokemon/miraidon.png" alt="Miraidon sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `miraidon` |
@@ -43,6 +46,9 @@ title: Admin Marru
   - Dazzlinggleam
   - Voltswitch
 ### 2. Raichu (Raichu)
+
+<img className="pokemon-sprite" src="/img/pokemon/raichu.png" alt="Raichu sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Admin Marru
   - Psychic
 ### 3. Ragingbolt (Ragingbolt)
 
+<img className="pokemon-sprite" src="/img/pokemon/ragingbolt.png" alt="Ragingbolt sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `ragingbolt` |
@@ -87,6 +96,9 @@ title: Admin Marru
   - Dracometeor
   - Hypervoice
 ### 4. Toxtricity (Toxtricity)
+
+<img className="pokemon-sprite" src="/img/pokemon/toxtricity.png" alt="Toxtricity sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Admin Marru
   - Sludgewave
 ### 5. Eelektross (Eelektross)
 
+<img className="pokemon-sprite" src="/img/pokemon/eelektross.png" alt="Eelektross sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `eelektross` |
@@ -131,6 +146,9 @@ title: Admin Marru
   - Uturn
   - Throatchop
 ### 6. Golem (Golem)
+
+<img className="pokemon-sprite" src="/img/pokemon/golem.png" alt="Golem sprite" />
+
 
 | Field | Value |
 |---|---|

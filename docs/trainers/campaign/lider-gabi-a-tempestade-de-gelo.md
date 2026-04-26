@@ -22,6 +22,9 @@ title: Gabi, A Tempestade de Gelo
 
 ### 1. Froslass (Froslass)
 
+<img className="pokemon-sprite" src="/img/pokemon/froslass.png" alt="Froslass sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `froslass` |
@@ -43,6 +46,9 @@ title: Gabi, A Tempestade de Gelo
   - Shadowball
   - Chillingwater
 ### 2. Articuno (Articuno)
+
+<img className="pokemon-sprite" src="/img/pokemon/articuno.png" alt="Articuno sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Gabi, A Tempestade de Gelo
   - Airslash
 ### 3. Baxcalibur (Baxcalibur)
 
+<img className="pokemon-sprite" src="/img/pokemon/baxcalibur.png" alt="Baxcalibur sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `baxcalibur` |
@@ -87,6 +96,9 @@ title: Gabi, A Tempestade de Gelo
   - Ironhead
   - Protect
 ### 4. Vanilluxe (Vanilluxe)
+
+<img className="pokemon-sprite" src="/img/pokemon/vanilluxe.png" alt="Vanilluxe sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Gabi, A Tempestade de Gelo
   - Signalbeam
 ### 5. Mamoswine (Mamoswine)
 
+<img className="pokemon-sprite" src="/img/pokemon/mamoswine.png" alt="Mamoswine sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `mamoswine` |
@@ -131,6 +146,9 @@ title: Gabi, A Tempestade de Gelo
   - Iceshard
   - Iciclespear
 ### 6. Glaceon (Glaceon)
+
+<img className="pokemon-sprite" src="/img/pokemon/glaceon.png" alt="Glaceon sprite" />
+
 
 | Field | Value |
 |---|---|

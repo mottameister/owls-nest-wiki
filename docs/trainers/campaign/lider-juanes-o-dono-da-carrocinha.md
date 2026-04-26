@@ -22,6 +22,9 @@ title: Juanes, O Dono da Carrocinha
 
 ### 1. Zoroark (Zoroark)
 
+<img className="pokemon-sprite" src="/img/pokemon/zoroark.png" alt="Zoroark sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `zoroark` |
@@ -43,6 +46,9 @@ title: Juanes, O Dono da Carrocinha
   - Psychic
   - Sludgebomb
 ### 2. Lycanroc (Lycanroc)
+
+<img className="pokemon-sprite" src="/img/pokemon/lycanroc.png" alt="Lycanroc sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Juanes, O Dono da Carrocinha
   - Megakick
 ### 3. Luxray (Luxray)
 
+<img className="pokemon-sprite" src="/img/pokemon/luxray.png" alt="Luxray sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `luxray` |
@@ -87,6 +96,9 @@ title: Juanes, O Dono da Carrocinha
   - Thunderwave
   - Throatchop
 ### 4. Pyroar (Pyroar)
+
+<img className="pokemon-sprite" src="/img/pokemon/pyroar.png" alt="Pyroar sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Juanes, O Dono da Carrocinha
   - Willowisp
 ### 5. Houndstone (Houndstone)
 
+<img className="pokemon-sprite" src="/img/pokemon/houndstone.png" alt="Houndstone sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `houndstone` |
@@ -131,6 +146,9 @@ title: Juanes, O Dono da Carrocinha
   - Icefang
   - Firefang
 ### 6. Mabosstiff (Mabosstiff)
+
+<img className="pokemon-sprite" src="/img/pokemon/mabosstiff.png" alt="Mabosstiff sprite" />
+
 
 | Field | Value |
 |---|---|

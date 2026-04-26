@@ -22,6 +22,9 @@ title: Team Arroba Vinny
 
 ### 1. Azumarill (Azumarill)
 
+<img className="pokemon-sprite" src="/img/pokemon/azumarill.png" alt="Azumarill sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `azumarill` |
@@ -43,6 +46,9 @@ title: Team Arroba Vinny
   - Playrough
   - Waterfall
 ### 2. Ninetales (Ninetales)
+
+<img className="pokemon-sprite" src="/img/pokemon/ninetales.png" alt="Ninetales sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Team Arroba Vinny
   - Dazzlinggleam
 ### 3. Primarina (Primarina)
 
+<img className="pokemon-sprite" src="/img/pokemon/primarina.png" alt="Primarina sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `primarina` |
@@ -87,6 +96,9 @@ title: Team Arroba Vinny
   - Dazzlinggleam
   - Blizzard
 ### 4. Gardevoir (Gardevoir)
+
+<img className="pokemon-sprite" src="/img/pokemon/gardevoir.png" alt="Gardevoir sprite" />
+
 
 | Field | Value |
 |---|---|

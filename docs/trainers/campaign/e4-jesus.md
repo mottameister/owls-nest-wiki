@@ -22,6 +22,9 @@ title: Elite 4 Hacksaw
 
 ### 1. Dragapult (Dragapult)
 
+<img className="pokemon-sprite" src="/img/pokemon/dragapult.png" alt="Dragapult sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `dragapult` |
@@ -43,6 +46,9 @@ title: Elite 4 Hacksaw
   - Suckerpunch
   - Uturn
 ### 2. Dragonite (Dragonite)
+
+<img className="pokemon-sprite" src="/img/pokemon/dragonite.png" alt="Dragonite sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Elite 4 Hacksaw
   - Thunderpunch
 ### 3. Garchomp (Garchomp)
 
+<img className="pokemon-sprite" src="/img/pokemon/garchomp.png" alt="Garchomp sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `garchomp` |
@@ -87,6 +96,9 @@ title: Elite 4 Hacksaw
   - Ironhead
   - Swordsdance
 ### 4. Charizard (Charizard)
+
+<img className="pokemon-sprite" src="/img/pokemon/charizard.png" alt="Charizard sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Elite 4 Hacksaw
   - Terablast
 ### 5. Latios (Latios)
 
+<img className="pokemon-sprite" src="/img/pokemon/latios.png" alt="Latios sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `latios` |
@@ -131,6 +146,9 @@ title: Elite 4 Hacksaw
   - Mysticalfire
   - Shadowball
 ### 6. Salamence (Salamence)
+
+<img className="pokemon-sprite" src="/img/pokemon/salamence.png" alt="Salamence sprite" />
+
 
 | Field | Value |
 |---|---|

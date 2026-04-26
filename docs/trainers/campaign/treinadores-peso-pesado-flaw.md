@@ -22,6 +22,9 @@ title: Peso Pesado Flaw
 
 ### 1. Wailord (Wailord)
 
+<img className="pokemon-sprite" src="/img/pokemon/wailord.png" alt="Wailord sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `wailord` |
@@ -43,6 +46,9 @@ title: Peso Pesado Flaw
   - Scald
   - Toxic
 ### 2. Cetitan (Cetitan)
+
+<img className="pokemon-sprite" src="/img/pokemon/cetitan.png" alt="Cetitan sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Peso Pesado Flaw
   - Bodypress
 ### 3. Metagross (Metagross)
 
+<img className="pokemon-sprite" src="/img/pokemon/metagross.png" alt="Metagross sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `metagross` |
@@ -87,6 +96,9 @@ title: Peso Pesado Flaw
   - Psychicfangs
   - Shadowclaw
 ### 4. Ironhands (Ironhands)
+
+<img className="pokemon-sprite" src="/img/pokemon/ironhands.png" alt="Ironhands sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Peso Pesado Flaw
   - Ironhead
 ### 5. Guzzlord (Guzzlord)
 
+<img className="pokemon-sprite" src="/img/pokemon/guzzlord.png" alt="Guzzlord sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `guzzlord` |
@@ -131,6 +146,9 @@ title: Peso Pesado Flaw
   - Sludgewave
   - Darkpulse
 ### 6. Aggron (Aggron)
+
+<img className="pokemon-sprite" src="/img/pokemon/aggron.png" alt="Aggron sprite" />
+
 
 | Field | Value |
 |---|---|

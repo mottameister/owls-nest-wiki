@@ -22,6 +22,9 @@ title: Team Arroba Admin
 
 ### 1. Grimmsnarl (Grimmsnarl)
 
+<img className="pokemon-sprite" src="/img/pokemon/grimmsnarl.png" alt="Grimmsnarl sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `grimmsnarl` |
@@ -43,6 +46,9 @@ title: Team Arroba Admin
   - Thunderwave
   - Fakeout
 ### 2. Incineroar (Incineroar)
+
+<img className="pokemon-sprite" src="/img/pokemon/incineroar.png" alt="Incineroar sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Team Arroba Admin
   - Knockoff
 ### 3. Hydreigon (Hydreigon)
 
+<img className="pokemon-sprite" src="/img/pokemon/hydreigon.png" alt="Hydreigon sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `hydreigon` |
@@ -87,6 +96,9 @@ title: Team Arroba Admin
   - Flamethrower
   - Earthpower
 ### 4. Krookodile (Krookodile)
+
+<img className="pokemon-sprite" src="/img/pokemon/krookodile.png" alt="Krookodile sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Team Arroba Admin
   - Rockslide
 ### 5. Moltres (Moltres)
 
+<img className="pokemon-sprite" src="/img/pokemon/moltres.png" alt="Moltres sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `moltres` |
@@ -131,6 +146,9 @@ title: Team Arroba Admin
   - Ancientpower
   - Fierywrath
 ### 6. Gyarados (Gyarados)
+
+<img className="pokemon-sprite" src="/img/pokemon/gyarados.png" alt="Gyarados sprite" />
+
 
 | Field | Value |
 |---|---|

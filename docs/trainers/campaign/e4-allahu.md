@@ -22,6 +22,9 @@ title: Elite 4 Allahu
 
 ### 1. Groudon (Groudon)
 
+<img className="pokemon-sprite" src="/img/pokemon/groudon.png" alt="Groudon sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `groudon` |
@@ -43,6 +46,9 @@ title: Elite 4 Allahu
   - Dragonclaw
   - Bodypress
 ### 2. Venusaur (Venusaur)
+
+<img className="pokemon-sprite" src="/img/pokemon/venusaur.png" alt="Venusaur sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Elite 4 Allahu
   - Earthpower
 ### 3. Houndoom (Houndoom)
 
+<img className="pokemon-sprite" src="/img/pokemon/houndoom.png" alt="Houndoom sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `houndoom` |
@@ -87,6 +96,9 @@ title: Elite 4 Allahu
   - Shadowball
   - Sludgebomb
 ### 4. Gougingfire (Gougingfire)
+
+<img className="pokemon-sprite" src="/img/pokemon/gougingfire.png" alt="Gougingfire sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Elite 4 Allahu
   - Burningbulwark
 ### 5. Incineroar (Incineroar)
 
+<img className="pokemon-sprite" src="/img/pokemon/incineroar.png" alt="Incineroar sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `incineroar` |
@@ -131,6 +146,9 @@ title: Elite 4 Allahu
   - Flareblitz
   - Darkestlariat
 ### 6. Walkingwake (Walkingwake)
+
+<img className="pokemon-sprite" src="/img/pokemon/walkingwake.png" alt="Walkingwake sprite" />
+
 
 | Field | Value |
 |---|---|

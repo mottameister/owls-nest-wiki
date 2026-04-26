@@ -22,6 +22,9 @@ title: Campeão Motta
 
 ### 1. Mr. X (Tyranitar)
 
+<img className="pokemon-sprite" src="/img/pokemon/tyranitar.png" alt="Tyranitar sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `tyranitar` |
@@ -43,6 +46,9 @@ title: Campeão Motta
   - Rockslide
   - Irondefense
 ### 2. quesadrillas (Excadrill)
+
+<img className="pokemon-sprite" src="/img/pokemon/excadrill.png" alt="Excadrill sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Campeão Motta
   - Rockslide
 ### 3. Pteros (Aerodactyl)
 
+<img className="pokemon-sprite" src="/img/pokemon/aerodactyl.png" alt="Aerodactyl sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `aerodactyl` |
@@ -87,6 +96,9 @@ title: Campeão Motta
   - Rockslide
   - Doubleedge
 ### 4. Shark Boy (Garchomp)
+
+<img className="pokemon-sprite" src="/img/pokemon/garchomp.png" alt="Garchomp sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Campeão Motta
   - Swordsdance
 ### 5. Pikes Peak (Zamazenta)
 
+<img className="pokemon-sprite" src="/img/pokemon/zamazenta.png" alt="Zamazenta sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `zamazenta` |
@@ -131,6 +146,9 @@ title: Campeão Motta
   - Irondefense
   - Crunch
 ### 6. Pokedeus (Arceus)
+
+<img className="pokemon-sprite" src="/img/pokemon/arceus.png" alt="Arceus sprite" />
+
 
 | Field | Value |
 |---|---|

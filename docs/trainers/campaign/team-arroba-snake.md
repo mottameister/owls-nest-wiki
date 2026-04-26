@@ -22,6 +22,9 @@ title: Team Arroba Snake
 
 ### 1. Silicobra (Silicobra)
 
+<img className="pokemon-sprite" src="/img/pokemon/silicobra.png" alt="Silicobra sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `silicobra` |
@@ -43,6 +46,9 @@ title: Team Arroba Snake
   - Drillrun
   - Coil
 ### 2. Arbok (Arbok)
+
+<img className="pokemon-sprite" src="/img/pokemon/arbok.png" alt="Arbok sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Team Arroba Snake
   - Seedbomb
 ### 3. Seviper (Seviper)
 
+<img className="pokemon-sprite" src="/img/pokemon/seviper.png" alt="Seviper sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `seviper` |
@@ -87,6 +96,9 @@ title: Team Arroba Snake
   - Flamethrower
   - Gigadrain
 ### 4. Servine (Servine)
+
+<img className="pokemon-sprite" src="/img/pokemon/servine.png" alt="Servine sprite" />
+
 
 | Field | Value |
 |---|---|

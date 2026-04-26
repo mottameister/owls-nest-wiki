@@ -22,6 +22,9 @@ title: Rival Motta 04
 
 ### 1. Mr. X (Tyranitar)
 
+<img className="pokemon-sprite" src="/img/pokemon/tyranitar.png" alt="Tyranitar sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `tyranitar` |
@@ -43,6 +46,9 @@ title: Rival Motta 04
   - Rockslide
   - Irondefense
 ### 2. Quesadrillas (Excadrill)
+
+<img className="pokemon-sprite" src="/img/pokemon/excadrill.png" alt="Excadrill sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Rival Motta 04
   - Rockslide
 ### 3. Pteros (Aerodactyl)
 
+<img className="pokemon-sprite" src="/img/pokemon/aerodactyl.png" alt="Aerodactyl sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `aerodactyl` |
@@ -87,6 +96,9 @@ title: Rival Motta 04
   - Rockslide
   - Doubleedge
 ### 4. Shark Boy (Garchomp)
+
+<img className="pokemon-sprite" src="/img/pokemon/garchomp.png" alt="Garchomp sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Rival Motta 04
   - Swordsdance
 ### 5. Nidokong (Nidoking)
 
+<img className="pokemon-sprite" src="/img/pokemon/nidoking.png" alt="Nidoking sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `nidoking` |
@@ -131,6 +146,9 @@ title: Rival Motta 04
   - Thunderbolt
   - Icebeam
 ### 6. Scott (Lycanroc)
+
+<img className="pokemon-sprite" src="/img/pokemon/lycanroc.png" alt="Lycanroc sprite" />
+
 
 | Field | Value |
 |---|---|

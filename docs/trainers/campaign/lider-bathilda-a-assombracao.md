@@ -22,6 +22,9 @@ title: Bathilda, A Assombração
 
 ### 1. Cursola (Cursola)
 
+<img className="pokemon-sprite" src="/img/pokemon/cursola.png" alt="Cursola sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `cursola` |
@@ -43,6 +46,9 @@ title: Bathilda, A Assombração
   - Shadowball
   - Disable
 ### 2. Annihilape (Annihilape)
+
+<img className="pokemon-sprite" src="/img/pokemon/annihilape.png" alt="Annihilape sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Bathilda, A Assombração
   - Nightslash
 ### 3. Ceruledge (Ceruledge)
 
+<img className="pokemon-sprite" src="/img/pokemon/ceruledge.png" alt="Ceruledge sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `ceruledge` |
@@ -87,6 +96,9 @@ title: Bathilda, A Assombração
   - Poltergeist
   - Nightslash
 ### 4. Gholdengo (Gholdengo)
+
+<img className="pokemon-sprite" src="/img/pokemon/gholdengo.png" alt="Gholdengo sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Bathilda, A Assombração
   - Shadowball
 ### 5. Aegislash (Aegislash)
 
+<img className="pokemon-sprite" src="/img/pokemon/aegislash.png" alt="Aegislash sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `aegislash` |
@@ -131,6 +146,9 @@ title: Bathilda, A Assombração
   - Shadowball
   - Flashcannon
 ### 6. Chandelure (Chandelure)
+
+<img className="pokemon-sprite" src="/img/pokemon/chandelure.png" alt="Chandelure sprite" />
+
 
 | Field | Value |
 |---|---|

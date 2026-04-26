@@ -22,6 +22,9 @@ title: Tuta, O Tormento
 
 ### 1. Politoed (Politoed)
 
+<img className="pokemon-sprite" src="/img/pokemon/politoed.png" alt="Politoed sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `politoed` |
@@ -43,6 +46,9 @@ title: Tuta, O Tormento
   - Psychic
   - Scald
 ### 2. Archaludon (Archaludon)
+
+<img className="pokemon-sprite" src="/img/pokemon/archaludon.png" alt="Archaludon sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Tuta, O Tormento
   - Irondefense
 ### 3. Kingdra (Kingdra)
 
+<img className="pokemon-sprite" src="/img/pokemon/kingdra.png" alt="Kingdra sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `kingdra` |
@@ -87,6 +96,9 @@ title: Tuta, O Tormento
   - Icebeam
   - Dracometeor
 ### 4. Pelipper (Pelipper)
+
+<img className="pokemon-sprite" src="/img/pokemon/pelipper.png" alt="Pelipper sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -110,6 +122,9 @@ title: Tuta, O Tormento
   - Toxic
 ### 5. Basculegion (Basculegion)
 
+<img className="pokemon-sprite" src="/img/pokemon/basculegion.png" alt="Basculegion sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `basculegion` |
@@ -131,6 +146,9 @@ title: Tuta, O Tormento
   - Flipturn
   - Psychicfangs
 ### 6. Drampa (Drampa)
+
+<img className="pokemon-sprite" src="/img/pokemon/drampa.png" alt="Drampa sprite" />
+
 
 | Field | Value |
 |---|---|

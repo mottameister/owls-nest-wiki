@@ -22,6 +22,9 @@ title: Charlie, A Insetoide
 
 ### 1. Shedinja (Shedinja)
 
+<img className="pokemon-sprite" src="/img/pokemon/shedinja.png" alt="Shedinja sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `shedinja` |
@@ -43,6 +46,9 @@ title: Charlie, A Insetoide
   - Shadowsneak
   - Suckerpunch
 ### 2. Dustox (Dustox)
+
+<img className="pokemon-sprite" src="/img/pokemon/dustox.png" alt="Dustox sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Charlie, A Insetoide
   - Sludgebomb
 ### 3. Butterfree (Butterfree)
 
+<img className="pokemon-sprite" src="/img/pokemon/butterfree.png" alt="Butterfree sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `butterfree` |
@@ -87,6 +96,9 @@ title: Charlie, A Insetoide
   - Hurricane
   - Signalbeam
 ### 4. Scyther (Scyther)
+
+<img className="pokemon-sprite" src="/img/pokemon/scyther.png" alt="Scyther sprite" />
+
 
 | Field | Value |
 |---|---|

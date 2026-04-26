@@ -22,6 +22,9 @@ title: Rival Motta 01
 
 ### 1. Mr. X (Larvitar)
 
+<img className="pokemon-sprite" src="/img/pokemon/larvitar.png" alt="Larvitar sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `larvitar` |
@@ -43,6 +46,9 @@ title: Rival Motta 01
   - Pursuit
   - Sandstorm
 ### 2. Quesadrillas (Drilbur)
+
+<img className="pokemon-sprite" src="/img/pokemon/drilbur.png" alt="Drilbur sprite" />
+
 
 | Field | Value |
 |---|---|
@@ -66,6 +72,9 @@ title: Rival Motta 01
   - Metalclaw
 ### 3. Shark Boy (Gible)
 
+<img className="pokemon-sprite" src="/img/pokemon/gible.png" alt="Gible sprite" />
+
+
 | Field | Value |
 |---|---|
 | Species | `gible` |
@@ -87,6 +96,9 @@ title: Rival Motta 01
   - Bulldoze
   - Metalclaw
 ### 4. Nidokong (Nidoranm)
+
+<img className="pokemon-sprite" src="/img/pokemon/nidoranm.png" alt="Nidoranm sprite" />
+
 
 | Field | Value |
 |---|---|
