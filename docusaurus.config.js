@@ -16,10 +16,17 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  
+  defaultLocale: 'en',
+  locales: ['en', 'pt-BR'],
+  localeConfigs: {
+    en: {
+      label: 'English',
+    },
+    'pt-BR': {
+      label: 'Português',
+    },
   },
+},
 
   presets: [
     [
@@ -80,6 +87,10 @@ const config = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+  type: 'localeDropdown',
+  position: 'right',
+},
       ],
     },
     footer: {
