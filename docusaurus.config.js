@@ -41,35 +41,21 @@ const config = {
   },
 
   presets: [
-    [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      }),
-    ],
+  [
+    'classic',
+    {
+      docs: {
+        sidebarPath: './sidebars.js',
+        routeBasePath: '/',
+        homePageId: 'intro',
+      },
+      blog: false,
+      theme: {
+        customCss: './src/css/custom.css',
+      },
+    },
   ],
+],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -80,26 +66,21 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
-      },
+  title: "Owl's Nest Wiki",
+  items: [
+    {
+      type: 'docSidebar',
+      sidebarId: 'tutorialSidebar',
+      position: 'left',
+      label: 'Docs',
+    },
+    {
+      href: 'https://github.com/mottameister/owls-nest-wiki',
+      label: 'GitHub',
+      position: 'right',
+    },
+  ],
+},
       footer: {
         style: 'dark',
         links: [
@@ -108,7 +89,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/intro/blog/',
               },
             ],
           },
@@ -116,16 +97,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.com/invite/TcSFAXGr6a',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/mottameister',
               },
             ],
           },
@@ -134,11 +111,11 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: '/docs/intro/blog/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/mottameister/owls-nest-wiki',
               },
             ],
           },
