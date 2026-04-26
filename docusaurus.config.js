@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: "Owl's Nest Wiki",
   tagline: "Radical Cobblemon Trainers Campaign",
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   url: 'https://wiki.mottameister.xyz',
   baseUrl: '/',
@@ -18,7 +18,12 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
+  
   },
+  metadata: [
+  { name: 'keywords', content: 'Cobblemon, Minecraft Pokemon mod, VGC battles, Cobblemon trainers, Radical Cobblemon Trainers' },
+  { name: 'description', content: "Owl's Nest is a competitive Cobblemon campaign featuring structured progression, VGC-style battles, and custom trainers." },
+  ],
 
   presets: [
     [
@@ -36,8 +41,27 @@ const config = {
     ],
   ],
 
+  
+
+  headTags: [
+  {
+    tagName: 'meta',
+    attributes: {
+      property: 'og:image',
+      content: 'https://wiki.mottameister.xyz/img/social-card.png',
+    },
+  },
+  {
+    tagName: 'meta',
+    attributes: {
+      name: 'twitter:card',
+      content: 'summary_large_image',
+    },
+  },
+],
+
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/social-card.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -104,5 +128,7 @@ const config = {
     },
   },
 };
+
+
 
 export default config;
