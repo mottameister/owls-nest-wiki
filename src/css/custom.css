@@ -1,30 +1,87 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #7c5cff;
+  --ifm-color-primary-dark: #6a4aff;
+  --ifm-color-primary-darker: #5d3dff;
+  --ifm-color-primary-darkest: #3f1fff;
+
+  --ifm-color-primary-light: #9376ff;
+  --ifm-color-primary-lighter: #a58cff;
+  --ifm-color-primary-lightest: #c8bbff;
+
+  --ifm-background-color: #0f0f17;
+  --ifm-navbar-background-color: #151522;
+  --ifm-footer-background-color: #0b0b11;
+
+  --ifm-heading-color: #ffffff;
+  --ifm-font-color-base: #d4d4e0;
+
+  --ifm-link-color: #8ab4ff;
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark theme refinado */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #0f0f17;
+  --ifm-navbar-background-color: #151522;
+  --ifm-footer-background-color: #0b0b11;
+}
+
+/* Sidebar */
+.theme-doc-sidebar-container {
+  background: #12121c;
+  border-right: 1px solid #1f1f2e;
+}
+
+/* Links da sidebar */
+.menu__link {
+  color: #b8b8d6;
+}
+
+.menu__link--active {
+  color: #ffffff;
+  background: rgba(124, 92, 255, 0.15);
+  border-left: 3px solid #7c5cff;
+}
+
+/* Navbar */
+.navbar {
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid #1f1f2e;
+}
+
+/* Títulos */
+.markdown h1,
+.markdown h2,
+.markdown h3 {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+/* Cards / blocos */
+.markdown {
+  line-height: 1.7;
+}
+
+/* Botões */
+.button {
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+/* Scrollbar (opcional, fica lindo) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f0f17;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a2a3d;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3a3a55;
 }
