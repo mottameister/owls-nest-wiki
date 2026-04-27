@@ -4,6 +4,8 @@ slug: /
 title: Owl's Nest Wiki
 ---
 
+![Owl's Nest Banner](/img/home-banner.png)
+
 # Owl's Nest Wiki
 
 Technical documentation for the **A Toca da Coruja** campaign.
