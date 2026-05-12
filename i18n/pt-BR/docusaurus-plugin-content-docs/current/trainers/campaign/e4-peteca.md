@@ -4,19 +4,19 @@ title: Elite 4 Peteca
 
 # Elite 4 Peteca
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_e4_peteca` |
-| Category | Elite Four |
-| Campanha Order | 23 / 26 |
-| Limite de Nível | 80 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_e4_peteca` |
+| Categoria | Elite 4 |
+| Ordem na campanha | 23 / 26 |
+| Limite de nível | 80 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★★★★ |
-| Archetype | Setup-oriented doubles core |
-| Unlock Requirement | `tdc_e4_jesus` |
-| Healing Bag | Full Restore x2 |
+| Arquétipo | Núcleo de duplas focado em setup |
+| Requisito de desbloqueio | `tdc_e4_jesus` |
+| Bolsa de cura | Full Restore x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Elite 4 Peteca
 <img className="pokemon-sprite" src="/img/pokemon/chienpao.png" alt="Chienpao sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `chienpao` |
-| Nickname | — |
-| Gênero | GENDERLESS |
-| Level | 80 |
+| Espécie | `chienpao` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 80 |
 | Shiny | Sim |
 | Habilidade | Swordofruin |
-| Item Segurado | Focus Sash |
-| Nature | Jolly |
+| Item segurado | Focus Sash |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Iceshard
   - Icespinner
@@ -50,21 +50,21 @@ title: Elite 4 Peteca
 <img className="pokemon-sprite" src="/img/pokemon/tinglu.png" alt="Tinglu sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `tinglu` |
-| Nickname | — |
-| Gênero | GENDERLESS |
-| Level | 80 |
+| Espécie | `tinglu` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 80 |
 | Shiny | Não |
 | Habilidade | Vesselofruin |
-| Item Segurado | Darkinium Z |
-| Nature | Adamant |
+| Item segurado | Darkinium Z |
+| Natureza | Adamant |
 | EVs | 252 HP / 252 Atk / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Bodypress
   - Throatchop
@@ -75,21 +75,21 @@ title: Elite 4 Peteca
 <img className="pokemon-sprite" src="/img/pokemon/greninja.png" alt="Greninja sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `greninja` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 80 |
+| Espécie | `greninja` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
 | Shiny | Sim |
 | Habilidade | Protean |
-| Item Segurado | Loaded Dice |
-| Nature | Timid |
+| Item segurado | Loaded Dice |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: fire |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: fire |
 
-**Movimentoset**
+**Golpes**
 
   - Watershuriken
   - Darkpulse
@@ -100,21 +100,21 @@ title: Elite 4 Peteca
 <img className="pokemon-sprite" src="/img/pokemon/roaringmoon.png" alt="Roaringmoon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `roaringmoon` |
-| Nickname | — |
-| Gênero | GENDERLESS |
-| Level | 80 |
+| Espécie | `roaringmoon` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 80 |
 | Shiny | Não |
 | Habilidade | Protosynthesis |
-| Item Segurado | Booster Energy |
-| Nature | Adamant |
+| Item segurado | Booster Energy |
+| Natureza | Adamant |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Crunch
   - Dragonclaw
@@ -125,21 +125,21 @@ title: Elite 4 Peteca
 <img className="pokemon-sprite" src="/img/pokemon/sharpedo.png" alt="Sharpedo sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `sharpedo` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 80 |
+| Espécie | `sharpedo` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
 | Shiny | Não |
 | Habilidade | Strongjaw |
-| Item Segurado | Sharpedonite |
-| Nature | Jolly |
+| Item segurado | Sharpedonite |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Crunch
   - Icefang
@@ -150,21 +150,21 @@ title: Elite 4 Peteca
 <img className="pokemon-sprite" src="/img/pokemon/kingambit.png" alt="Kingambit sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `kingambit` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 80 |
+| Espécie | `kingambit` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
 | Shiny | Não |
 | Habilidade | Supremeoverlord |
-| Item Segurado | Chople Berry |
-| Nature | Adamant |
+| Item segurado | Chople Berry |
+| Natureza | Adamant |
 | EVs | 252 HP / 252 Atk / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Kowtowcleave
   - Ironhead
@@ -172,31 +172,31 @@ title: Elite 4 Peteca
   - Swordsdance
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Spread damage is a major pressure point through Bulldoze, Rockslide, Sludgewave.
+- Dano em área é um grande ponto de pressão por meio de Bulldoze, Rockslide, Sludgewave.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Dragondance, Swordsdance.
 - Priority pressure can close games or deny low-HP pivots: Iceshard, Suckerpunch.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Focus Sash leads can guarantee tempo moves unless double-targeted or chipped.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_e4_peteca.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_e4_peteca.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_e4_peteca.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_e4_peteca.json`

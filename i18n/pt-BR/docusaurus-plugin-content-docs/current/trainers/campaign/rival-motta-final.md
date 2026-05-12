@@ -4,19 +4,19 @@ title: Rival Motta Final
 
 # Rival Motta Final
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_rival_motta_final` |
-| Category | Rival |
-| Campanha Order | 21 / 26 |
-| Limite de Nível | 79 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_rival_motta_final` |
+| Categoria | Rival |
+| Ordem na campanha | 21 / 26 |
+| Limite de nível | 79 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★★★★ |
-| Archetype | Sand offense / field-control doubles |
-| Unlock Requirement | `tdc_admin_marru` |
-| Healing Bag | Full Restore x2 |
+| Arquétipo | Ofensiva de areia / controle de campo em duplas |
+| Requisito de desbloqueio | `tdc_admin_marru` |
+| Bolsa de cura | Full Restore x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Rival Motta Final
 <img className="pokemon-sprite" src="/img/pokemon/tyranitar.png" alt="Tyranitar sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `tyranitar` |
-| Nickname | Mr. X |
-| Gênero | MALE |
-| Level | 79 |
+| Espécie | `tyranitar` |
+| Apelido | Mr. X |
+| Gênero | Masculino |
+| Nível | 79 |
 | Shiny | Não |
 | Habilidade | Sandstream |
-| Item Segurado | Tyranitarite |
-| Nature | Sassy |
+| Item segurado | Tyranitarite |
+| Natureza | Sassy |
 | EVs | 244 HP / 16 Atk / 248 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Stealthrock
   - Knockoff
@@ -50,21 +50,21 @@ title: Rival Motta Final
 <img className="pokemon-sprite" src="/img/pokemon/excadrill.png" alt="Excadrill sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `excadrill` |
-| Nickname | Quesadrillas |
-| Gênero | MALE |
-| Level | 79 |
+| Espécie | `excadrill` |
+| Apelido | Quesadrillas |
+| Gênero | Masculino |
+| Nível | 79 |
 | Shiny | Sim |
 | Habilidade | Sandrush |
-| Item Segurado | Steelium Z |
-| Nature | Adamant |
+| Item segurado | Steelium Z |
+| Natureza | Adamant |
 | EVs | 252 Atk / 132 Def / 124 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Drillrun
   - Brickbreak
@@ -75,21 +75,21 @@ title: Rival Motta Final
 <img className="pokemon-sprite" src="/img/pokemon/aerodactyl.png" alt="Aerodactyl sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `aerodactyl` |
-| Nickname | Pteros |
-| Gênero | MALE |
-| Level | 79 |
+| Espécie | `aerodactyl` |
+| Apelido | Pteros |
+| Gênero | Masculino |
+| Nível | 79 |
 | Shiny | Não |
 | Habilidade | Rockhead |
-| Item Segurado | Focus Sash |
-| Nature | Jolly |
+| Item segurado | Focus Sash |
+| Natureza | Jolly |
 | EVs | 252 Atk / 6 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: rock |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: rock |
 
-**Movimentoset**
+**Golpes**
 
   - Dualwingbeat
   - Tailwind
@@ -100,21 +100,21 @@ title: Rival Motta Final
 <img className="pokemon-sprite" src="/img/pokemon/garchomp.png" alt="Garchomp sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `garchomp` |
-| Nickname | Shark Boy |
-| Gênero | MALE |
-| Level | 79 |
+| Espécie | `garchomp` |
+| Apelido | Shark Boy |
+| Gênero | Masculino |
+| Nível | 79 |
 | Shiny | Não |
 | Habilidade | Roughskin |
-| Item Segurado | Rocky Helmet |
-| Nature | Jolly |
+| Item segurado | Rocky Helmet |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: steel |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: steel |
 
-**Movimentoset**
+**Golpes**
 
   - Dragonclaw
   - Earthquake
@@ -125,21 +125,21 @@ title: Rival Motta Final
 <img className="pokemon-sprite" src="/img/pokemon/lycanroc.png" alt="Lycanroc sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `lycanroc` |
-| Nickname | Scott |
-| Gênero | MALE |
-| Level | 79 |
+| Espécie | `lycanroc` |
+| Apelido | Scott |
+| Gênero | Masculino |
+| Nível | 79 |
 | Shiny | Sim |
 | Habilidade | Toughclaws |
-| Item Segurado | White Herb |
-| Nature | Jolly |
+| Item segurado | White Herb |
+| Natureza | Jolly |
 | EVs | 8 HP / 248 Atk / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Accelerock
   - Closecombat
@@ -150,21 +150,21 @@ title: Rival Motta Final
 <img className="pokemon-sprite" src="/img/pokemon/zamazenta.png" alt="Zamazenta sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `zamazenta` |
-| Nickname | Pikes Peak |
-| Gênero | GENDERLESS |
-| Level | 79 |
+| Espécie | `zamazenta` |
+| Apelido | Pikes Peak |
+| Gênero | Sem gênero |
+| Nível | 79 |
 | Shiny | Não |
 | Habilidade | Dauntlessshield |
-| Item Segurado | Rusted Shield |
-| Nature | Adamant |
+| Item segurado | Rusted Shield |
+| Natureza | Adamant |
 | EVs | 252 HP / 252 Atk / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Behemothbash
   - Bodypress
@@ -172,33 +172,33 @@ title: Rival Motta Final
   - Crunch
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Primary field plan: Sand support enables specific sweepers and chip pressure.
+- Plano principal de campo: o suporte de areia habilita sweepers específicos e pressão por dano residual.
 - Speed control tools: Tailwind, Trailblaze.
-- Spread damage is a major pressure point through Earthquake, Rockslide.
+- Dano em área é um grande ponto de pressão por meio de Earthquake, Rockslide.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Irondefense, Swordsdance.
 - Priority pressure can close games or deny low-HP pivots: Accelerock.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Focus Sash leads can guarantee tempo moves unless double-targeted or chipped.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_rival_motta_final.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_rival_motta_final.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_rival_motta_final.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_rival_motta_final.json`

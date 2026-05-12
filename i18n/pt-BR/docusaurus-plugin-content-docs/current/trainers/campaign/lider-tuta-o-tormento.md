@@ -4,19 +4,19 @@ title: Tuta, O Tormento
 
 # Tuta, O Tormento
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_lider_tuta_o_tormento` |
-| Category | Leader |
-| Campanha Order | 19 / 26 |
-| Limite de Nível | 72 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_lider_tuta_o_tormento` |
+| Categoria | Líder |
+| Ordem na campanha | 19 / 26 |
+| Limite de nível | 72 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★★★★ |
-| Archetype | Rain offense / speed control |
-| Unlock Requirement | `tdc_team_arroba_admin` |
-| Healing Bag | Full Restore x2 |
+| Arquétipo | Ofensiva de chuva / controle de velocidade |
+| Requisito de desbloqueio | `tdc_team_arroba_admin` |
+| Bolsa de cura | Full Restore x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Tuta, O Tormento
 <img className="pokemon-sprite" src="/img/pokemon/politoed.png" alt="Politoed sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `politoed` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 72 |
+| Espécie | `politoed` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 72 |
 | Shiny | Não |
 | Habilidade | Drizzle |
-| Item Segurado | Damp Rock |
-| Nature | Modest |
+| Item segurado | Damp Rock |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA / 4 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Earthpower
   - Icebeam
@@ -50,21 +50,21 @@ title: Tuta, O Tormento
 <img className="pokemon-sprite" src="/img/pokemon/archaludon.png" alt="Archaludon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `archaludon` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 72 |
+| Espécie | `archaludon` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 72 |
 | Shiny | Sim |
 | Habilidade | Stamina |
-| Item Segurado | Sitrus Berry |
-| Nature | Modest |
+| Item segurado | Sitrus Berry |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA / 4 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Dragonpulse
   - Electroshot
@@ -75,21 +75,21 @@ title: Tuta, O Tormento
 <img className="pokemon-sprite" src="/img/pokemon/kingdra.png" alt="Kingdra sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `kingdra` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 72 |
+| Espécie | `kingdra` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 72 |
 | Shiny | Não |
 | Habilidade | Swiftswim |
-| Item Segurado | Dragonium Z |
-| Nature | Modest |
+| Item segurado | Dragonium Z |
+| Natureza | Modest |
 | EVs | 124 Def / 252 SpA / 128 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Hurricane
   - Scald
@@ -100,21 +100,21 @@ title: Tuta, O Tormento
 <img className="pokemon-sprite" src="/img/pokemon/pelipper.png" alt="Pelipper sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `pelipper` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 72 |
+| Espécie | `pelipper` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 72 |
 | Shiny | Não |
 | Habilidade | Keeneye |
-| Item Segurado | Focus Sash |
-| Nature | Bold |
+| Item segurado | Focus Sash |
+| Natureza | Bold |
 | EVs | 248 HP / 252 Def / 8 SpA |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Tailwind
   - Hurricane
@@ -125,21 +125,21 @@ title: Tuta, O Tormento
 <img className="pokemon-sprite" src="/img/pokemon/basculegion.png" alt="Basculegion sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `basculegion` |
-| Nickname | — |
-| Gênero | GENDERLESS |
-| Level | 72 |
+| Espécie | `basculegion` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 72 |
 | Shiny | Sim |
 | Habilidade | Swiftswim |
-| Item Segurado | Life Orb |
-| Nature | Adamant |
+| Item segurado | Life Orb |
+| Natureza | Adamant |
 | EVs | 252 HP / 252 Atk / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | tera: water |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: water |
 
-**Movimentoset**
+**Golpes**
 
   - Wavecrash
   - Lastrespects
@@ -150,21 +150,21 @@ title: Tuta, O Tormento
 <img className="pokemon-sprite" src="/img/pokemon/drampa.png" alt="Drampa sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `drampa` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 72 |
+| Espécie | `drampa` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 72 |
 | Shiny | Sim |
 | Habilidade | Berserk |
-| Item Segurado | Drampanite |
-| Nature | Modest |
+| Item segurado | Drampanite |
+| Natureza | Modest |
 | EVs | 248 HP / 252 SpA / 8 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Dracometeor
   - Hurricane
@@ -172,33 +172,33 @@ title: Tuta, O Tormento
   - Flamethrower
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Primary field plan: Rain support enables specific sweepers and chip pressure.
+- Plano principal de campo: o suporte de chuva habilita sweepers específicos e pressão por dano residual.
 - Speed control tools: Tailwind.
-- Spread damage is a major pressure point through Hypervoice.
+- Dano em área é um grande ponto de pressão por meio de Hypervoice.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Irondefense.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Focus Sash leads can guarantee tempo moves unless double-targeted or chipped.
 - Life Orb attackers increase burst damage at the cost of recoil.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_lider_tuta_o_tormento.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_lider_tuta_o_tormento.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_lider_tuta_o_tormento.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_lider_tuta_o_tormento.json`

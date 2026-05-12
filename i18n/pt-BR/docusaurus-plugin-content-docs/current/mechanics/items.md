@@ -2,24 +2,24 @@
 sidebar_position: 2
 ---
 
-# Escalonamento de Itens
+# Escalada de itens
 
-Trainer item usage scales with progression:
+O uso de itens pelos treinadores escala junto com a progressão:
 
-## Early Game
+## Início de jogo
 - Super Potion
 
-## Mid Game
+## Meio de jogo
 - Hyper Potion
 
-## Late Game
+## Fim de jogo
 - Max Potion
 
 ## Endgame
 - Full Restore
 
-## Purpose
+## Propósito
 
-- Maintain difficulty consistency
-- Prevent trivialization of battles
-- Increase endurance requirements
+- Manter a consistência da dificuldade
+- Evitar que as batalhas sejam trivializadas
+- Aumentar a exigência de resistência ao longo da campanha

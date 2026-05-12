@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Campaign Overview
+# Visão geral da campanha
 
-Owl's Nest is a structured Cobblemon campaign built around:
+A Toca da Coruja é uma campanha estruturada de Cobblemon construída em torno de:
 
-- Progressive difficulty scaling
-- Competitive double battles (VGC-style)
-- Fully custom trainers with curated teams
-- Strategic pacing from early to late game
+- Escalada progressiva de dificuldade
+- Batalhas em dupla com pegada competitiva no estilo VGC
+- Treinadores totalmente personalizados, com equipes curadas
+- Ritmo estratégico do início ao fim da campanha
 
-The campaign is designed to simulate a competitive ladder-like experience within Minecraft.
+A campanha foi pensada para simular, dentro do Minecraft, uma experiência próxima de uma escada competitiva.

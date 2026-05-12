@@ -4,42 +4,42 @@ title: Dada, O Faixa Preta
 
 # Dada, O Faixa Preta
 
-## Encounter Overview
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_lider_dada_o_faixa_preta` |
-| Category | Leader |
-| Campaign Order | 7 / 26 |
-| Level Cap | 33 |
-| Battle Format | `GEN_9_DOUBLES` |
-| Difficulty | ★★★☆☆ |
-| Archetype | Setup-oriented doubles core |
-| Unlock Requirement | `tdc_rival_motta_02` |
-| Healing Bag | Hyper Potion x2 |
+| ID do treinador | `tdc_lider_dada_o_faixa_preta` |
+| Categoria | Líder |
+| Ordem na campanha | 7 / 26 |
+| Limite de nível | 33 |
+| Formato de batalha | `GEN_9_DOUBLES` |
+| Dificuldade | ★★★☆☆ |
+| Arquétipo | Núcleo de duplas focado em setup |
+| Requisito de desbloqueio | `tdc_rival_motta_02` |
+| Bolsa de cura | Hyper Potion x2 |
 
-## Team
+## Equipe
 
 ### 1. Hariyama (Hariyama)
 
 <img className="pokemon-sprite" src="/img/pokemon/hariyama.png" alt="Hariyama sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `hariyama` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 33 |
-| Shiny | No |
-| Ability | Thickfat |
-| Held Item | Leftovers |
-| Nature | Adamant |
+| Espécie | `hariyama` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 33 |
+| Shiny | Não |
+| Habilidade | Thickfat |
+| Item segurado | Leftovers |
+| Natureza | Adamant |
 | EVs | 252 HP / 252 Atk / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | tera: fighting |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: fighting |
 
-**Moveset**
+**Golpes**
 
   - Poweruppunch
   - Drainpunch
@@ -50,21 +50,21 @@ title: Dada, O Faixa Preta
 <img className="pokemon-sprite" src="/img/pokemon/machamp.png" alt="Machamp sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `machamp` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 33 |
-| Shiny | No |
-| Ability | Noguard |
-| Held Item | Fightinium Z |
-| Nature | Adamant |
+| Espécie | `machamp` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 33 |
+| Shiny | Não |
+| Habilidade | Noguard |
+| Item segurado | Fightinium Z |
+| Natureza | Adamant |
 | EVs | 248 HP / 244 Atk / 12 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Highhorsepower
   - Dynamicpunch
@@ -75,21 +75,21 @@ title: Dada, O Faixa Preta
 <img className="pokemon-sprite" src="/img/pokemon/conkeldurr.png" alt="Conkeldurr sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `conkeldurr` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 33 |
-| Shiny | No |
-| Ability | Guts |
-| Held Item | Flame Orb |
-| Nature | Adamant |
+| Espécie | `conkeldurr` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 33 |
+| Shiny | Não |
+| Habilidade | Guts |
+| Item segurado | Flame Orb |
+| Natureza | Adamant |
 | EVs | 252 HP / 252 Atk / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Drainpunch
   - Machpunch
@@ -100,21 +100,21 @@ title: Dada, O Faixa Preta
 <img className="pokemon-sprite" src="/img/pokemon/gallade.png" alt="Gallade sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `gallade` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 33 |
-| Shiny | No |
-| Ability | Innerfocus |
-| Held Item | Galladite |
-| Nature | Jolly |
+| Espécie | `gallade` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 33 |
+| Shiny | Não |
+| Habilidade | Innerfocus |
+| Item segurado | Galladite |
+| Natureza | Jolly |
 | EVs | 244 Atk / 12 SpD / 248 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Drainpunch
   - Icepunch
@@ -122,30 +122,30 @@ title: Dada, O Faixa Preta
   - Psychocut
 
 
-## Competitive Analysis
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Spread damage is a major pressure point through Rockslide.
+- Dano em área é um grande ponto de pressão por meio de Rockslide.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Poweruppunch.
 - Priority pressure can close games or deny low-HP pivots: Fakeout, Machpunch.
 
-### Threat Profile
+### Perfil de ameaças
 
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Notes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Notes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_lider_dada_o_faixa_preta.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_lider_dada_o_faixa_preta.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_lider_dada_o_faixa_preta.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_lider_dada_o_faixa_preta.json`

@@ -4,19 +4,19 @@ title: Elite 4 Hacksaw
 
 # Elite 4 Hacksaw
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_e4_jesus` |
-| Category | Elite Four |
-| Campanha Order | 22 / 26 |
-| Limite de Nível | 80 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_e4_jesus` |
+| Categoria | Elite 4 |
+| Ordem na campanha | 22 / 26 |
+| Limite de nível | 80 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★★★★ |
-| Archetype | High-tempo offensive pressure |
-| Unlock Requirement | `tdc_rival_motta_final` |
-| Healing Bag | Full Restore x2 |
+| Arquétipo | Pressão ofensiva de ritmo alto |
+| Requisito de desbloqueio | `tdc_rival_motta_final` |
+| Bolsa de cura | Full Restore x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Elite 4 Hacksaw
 <img className="pokemon-sprite" src="/img/pokemon/dragapult.png" alt="Dragapult sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `dragapult` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 80 |
+| Espécie | `dragapult` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
 | Shiny | Sim |
 | Habilidade | Clearbody |
-| Item Segurado | Choice Scarf |
-| Nature | Jolly |
+| Item segurado | Choice Scarf |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Dragondarts
   - Phantomforce
@@ -50,21 +50,21 @@ title: Elite 4 Hacksaw
 <img className="pokemon-sprite" src="/img/pokemon/dragonite.png" alt="Dragonite sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `dragonite` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 80 |
+| Espécie | `dragonite` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
 | Shiny | Não |
 | Habilidade | Multiscale |
-| Item Segurado | Assault Vest |
-| Nature | Adamant |
+| Item segurado | Assault Vest |
+| Natureza | Adamant |
 | EVs | 248 HP / 252 Atk / 8 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Aquajet
   - Dragonclaw
@@ -75,21 +75,21 @@ title: Elite 4 Hacksaw
 <img className="pokemon-sprite" src="/img/pokemon/garchomp.png" alt="Garchomp sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `garchomp` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 80 |
+| Espécie | `garchomp` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
 | Shiny | Sim |
 | Habilidade | Roughskin |
-| Item Segurado | Rocky Helmet |
-| Nature | Jolly |
+| Item segurado | Rocky Helmet |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Dragonclaw
   - Earthquake
@@ -100,21 +100,21 @@ title: Elite 4 Hacksaw
 <img className="pokemon-sprite" src="/img/pokemon/charizard.png" alt="Charizard sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `charizard` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 80 |
+| Espécie | `charizard` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
 | Shiny | Não |
 | Habilidade | Blaze |
-| Item Segurado | Expert Belt |
-| Nature | Timid |
+| Item segurado | Expert Belt |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: grass |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: grass |
 
-**Movimentoset**
+**Golpes**
 
   - Airslash
   - Flamethrower
@@ -125,21 +125,21 @@ title: Elite 4 Hacksaw
 <img className="pokemon-sprite" src="/img/pokemon/latios.png" alt="Latios sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `latios` |
-| Nickname | — |
-| Gênero | GENDERLESS |
-| Level | 80 |
+| Espécie | `latios` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 80 |
 | Shiny | Não |
 | Habilidade | Levitate |
-| Item Segurado | Dragonium Z |
-| Nature | Timid |
+| Item segurado | Dragonium Z |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Dracometeor
   - Lusterpurge
@@ -150,21 +150,21 @@ title: Elite 4 Hacksaw
 <img className="pokemon-sprite" src="/img/pokemon/salamence.png" alt="Salamence sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `salamence` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 80 |
+| Espécie | `salamence` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
 | Shiny | Sim |
 | Habilidade | Aerilate |
-| Item Segurado | Salamencite |
-| Nature | Naive |
+| Item segurado | Salamencite |
+| Natureza | Naive |
 | EVs | 252 Atk / 4 SpA / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Bodyslam
   - Dragonclaw
@@ -172,32 +172,32 @@ title: Elite 4 Hacksaw
   - Ironhead
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Spread damage is a major pressure point through Earthquake.
+- Dano em área é um grande ponto de pressão por meio de Earthquake.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Swordsdance.
 - Priority pressure can close games or deny low-HP pivots: Aquajet, Extremespeed, Suckerpunch.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Choice items create immediate damage or speed pressure, but can be punished through positioning.
 - Assault Vest users improve special bulk and make neutral trades harder.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_e4_jesus.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_e4_jesus.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_e4_jesus.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_e4_jesus.json`

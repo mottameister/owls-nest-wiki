@@ -4,19 +4,19 @@ title: Gabi, A Tempestade de Gelo
 
 # Gabi, A Tempestade de Gelo
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_lider_gabi_a_tempestade_de_gelo` |
-| Category | Leader |
-| Campanha Order | 17 / 26 |
-| Limite de Nível | 64 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_lider_gabi_a_tempestade_de_gelo` |
+| Categoria | Líder |
+| Ordem na campanha | 17 / 26 |
+| Limite de nível | 64 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★★★☆ |
-| Archetype | Snow offense / special pressure |
-| Unlock Requirement | `tdc_rival_motta_04` |
-| Healing Bag | Max Potion x2 |
+| Arquétipo | Ofensiva de neve / pressão especial |
+| Requisito de desbloqueio | `tdc_rival_motta_04` |
+| Bolsa de cura | Max Potion x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Gabi, A Tempestade de Gelo
 <img className="pokemon-sprite" src="/img/pokemon/froslass.png" alt="Froslass sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `froslass` |
-| Nickname | — |
-| Gênero | GENDERLESS |
-| Level | 64 |
+| Espécie | `froslass` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 64 |
 | Shiny | Sim |
 | Habilidade | Snowwarning |
-| Item Segurado | Froslassite |
-| Nature | Timid |
+| Item segurado | Froslassite |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Auroraveil
   - Blizzard
@@ -50,21 +50,21 @@ title: Gabi, A Tempestade de Gelo
 <img className="pokemon-sprite" src="/img/pokemon/articuno.png" alt="Articuno sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `articuno` |
-| Nickname | — |
-| Gênero | GENDERLESS |
-| Level | 64 |
+| Espécie | `articuno` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 64 |
 | Shiny | Sim |
 | Habilidade | Snowcloak |
-| Item Segurado | Bright Powder |
-| Nature | Modest |
+| Item segurado | Bright Powder |
+| Natureza | Modest |
 | EVs | 248 HP / 252 SpA / 8 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Roost
   - Tailwind
@@ -75,21 +75,21 @@ title: Gabi, A Tempestade de Gelo
 <img className="pokemon-sprite" src="/img/pokemon/baxcalibur.png" alt="Baxcalibur sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `baxcalibur` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 64 |
+| Espécie | `baxcalibur` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 64 |
 | Shiny | Sim |
 | Habilidade | Icebody |
-| Item Segurado | Leftovers |
-| Nature | Jolly |
+| Item segurado | Leftovers |
+| Natureza | Jolly |
 | EVs | 248 Atk / 8 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: dragon |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: dragon |
 
-**Movimentoset**
+**Golpes**
 
   - Glaiverush
   - Iceshard
@@ -100,21 +100,21 @@ title: Gabi, A Tempestade de Gelo
 <img className="pokemon-sprite" src="/img/pokemon/vanilluxe.png" alt="Vanilluxe sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `vanilluxe` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 64 |
+| Espécie | `vanilluxe` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 64 |
 | Shiny | Sim |
 | Habilidade | Snowwarning |
-| Item Segurado | Icy Rock |
-| Nature | Modest |
+| Item segurado | Icy Rock |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA / 4 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Auroraveil
   - Blizzard
@@ -125,21 +125,21 @@ title: Gabi, A Tempestade de Gelo
 <img className="pokemon-sprite" src="/img/pokemon/mamoswine.png" alt="Mamoswine sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `mamoswine` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 64 |
+| Espécie | `mamoswine` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 64 |
 | Shiny | Não |
 | Habilidade | Snowcloak |
-| Item Segurado | Icium Z |
-| Nature | Adamant |
+| Item segurado | Icium Z |
+| Natureza | Adamant |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Hail
   - Highhorsepower
@@ -150,21 +150,21 @@ title: Gabi, A Tempestade de Gelo
 <img className="pokemon-sprite" src="/img/pokemon/glaceon.png" alt="Glaceon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `glaceon` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 64 |
+| Espécie | `glaceon` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 64 |
 | Shiny | Sim |
 | Habilidade | Icebody |
-| Item Segurado | Assault Vest |
-| Nature | Modest |
+| Item segurado | Assault Vest |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | tera: psychic |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: psychic |
 
-**Movimentoset**
+**Golpes**
 
   - Alluringvoice
   - Blizzard
@@ -172,32 +172,32 @@ title: Gabi, A Tempestade de Gelo
   - Terablast
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Primary field plan: Snow support enables specific sweepers and chip pressure.
+- Plano principal de campo: o suporte de neve habilita sweepers específicos e pressão por dano residual.
 - Speed control tools: Tailwind.
-- Spread damage is a major pressure point through Blizzard.
+- Dano em área é um grande ponto de pressão por meio de Blizzard.
 
-### Win Conditions
+### Condições de vitória
 
 - Priority pressure can close games or deny low-HP pivots: Iceshard.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Assault Vest users improve special bulk and make neutral trades harder.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_lider_gabi_a_tempestade_de_gelo.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_lider_gabi_a_tempestade_de_gelo.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_lider_gabi_a_tempestade_de_gelo.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_lider_gabi_a_tempestade_de_gelo.json`

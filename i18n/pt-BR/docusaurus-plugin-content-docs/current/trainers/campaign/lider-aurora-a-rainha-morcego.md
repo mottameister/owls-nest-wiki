@@ -4,42 +4,42 @@ title: Aurora, A Rainha Morcego
 
 # Aurora, A Rainha Morcego
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_lider_aurora_a_rainha_morcego` |
-| Category | Leader |
-| Campanha Order | 2 / 26 |
-| Limite de Nível | 18 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_lider_aurora_a_rainha_morcego` |
+| Categoria | Líder |
+| Ordem na campanha | 2 / 26 |
+| Limite de nível | 18 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★☆☆☆ |
-| Archetype | Setup-oriented doubles core |
-| Unlock Requirement | `tdc_rival_motta_01` |
-| Healing Bag | Super Potion x2 |
+| Arquétipo | Núcleo de duplas focado em setup |
+| Requisito de desbloqueio | `tdc_rival_motta_01` |
+| Bolsa de cura | Super Potion x2 |
 
 ## Equipe
 
-### 1. Nãoibat (Nãoibat)
+### 1. Noibat (Noibat)
 
-<img className="pokemon-sprite" src="/img/pokemon/noibat.png" alt="Nãoibat sprite" />
+<img className="pokemon-sprite" src="/img/pokemon/noibat.png" alt="Noibat sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `noibat` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 18 |
+| Espécie | `noibat` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 18 |
 | Shiny | Sim |
 | Habilidade | Infiltrator |
-| Item Segurado | Assault Vest |
-| Nature | Modest |
+| Item segurado | Assault Vest |
+| Natureza | Modest |
 | EVs | 252 SpA / 248 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Psychic
   - Shadowball
@@ -50,21 +50,21 @@ title: Aurora, A Rainha Morcego
 <img className="pokemon-sprite" src="/img/pokemon/zubat.png" alt="Zubat sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `zubat` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 18 |
+| Espécie | `zubat` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 18 |
 | Shiny | Não |
 | Habilidade | Innerfocus |
-| Item Segurado | Life Orb |
-| Nature | Adamant |
+| Item segurado | Life Orb |
+| Natureza | Adamant |
 | EVs | 252 Atk / 248 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Leechlife
   - Poisonfang
@@ -75,21 +75,21 @@ title: Aurora, A Rainha Morcego
 <img className="pokemon-sprite" src="/img/pokemon/gligar.png" alt="Gligar sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `gligar` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 18 |
+| Espécie | `gligar` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 18 |
 | Shiny | Sim |
 | Habilidade | Hypercutter |
-| Item Segurado | Groundium Z |
-| Nature | Jolly |
+| Item segurado | Groundium Z |
+| Natureza | Jolly |
 | EVs | 4 HP / 232 Atk / 24 SpD / 244 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Acrobatics
   - Earthquake
@@ -100,21 +100,21 @@ title: Aurora, A Rainha Morcego
 <img className="pokemon-sprite" src="/img/pokemon/swoobat.png" alt="Swoobat sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `swoobat` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 18 |
+| Espécie | `swoobat` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 18 |
 | Shiny | Sim |
 | Habilidade | Simple |
-| Item Segurado | Sitrus Berry |
-| Nature | Timid |
+| Item segurado | Sitrus Berry |
+| Natureza | Timid |
 | EVs | 240 SpA / 36 SpD / 232 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: normal |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: normal |
 
-**Movimentoset**
+**Golpes**
 
   - Calmmind
   - Shadowball
@@ -122,30 +122,30 @@ title: Aurora, A Rainha Morcego
   - Airslash
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Spread damage is a major pressure point through Earthquake.
+- Dano em área é um grande ponto de pressão por meio de Earthquake.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Calmmind.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Assault Vest users improve special bulk and make neutral trades harder.
 - Life Orb attackers increase burst damage at the cost of recoil.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_lider_aurora_a_rainha_morcego.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_lider_aurora_a_rainha_morcego.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_lider_aurora_a_rainha_morcego.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_lider_aurora_a_rainha_morcego.json`

@@ -4,19 +4,19 @@ title: Equipe Arroba Snake
 
 # Equipe Arroba Snake
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_team_arroba_snake` |
-| Category | Equipe Arroba |
-| Campanha Order | 3 / 26 |
-| Limite de Nível | 22 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_team_arroba_snake` |
+| Categoria | Equipe Arroba |
+| Ordem na campanha | 3 / 26 |
+| Limite de nível | 22 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★☆☆☆ |
-| Archetype | Setup-oriented doubles core |
-| Unlock Requirement | `tdc_lider_aurora_a_rainha_morcego` |
-| Healing Bag | Super Potion x2 |
+| Arquétipo | Núcleo de duplas focado em setup |
+| Requisito de desbloqueio | `tdc_lider_aurora_a_rainha_morcego` |
+| Bolsa de cura | Super Potion x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Equipe Arroba Snake
 <img className="pokemon-sprite" src="/img/pokemon/silicobra.png" alt="Silicobra sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `silicobra` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 22 |
+| Espécie | `silicobra` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 22 |
 | Shiny | Sim |
 | Habilidade | Shedskin |
-| Item Segurado | Focus Sash |
-| Nature | Adamant |
+| Item segurado | Focus Sash |
+| Natureza | Adamant |
 | EVs | 244 HP / 240 Atk / 24 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Stealthrock
   - Rockslide
@@ -50,21 +50,21 @@ title: Equipe Arroba Snake
 <img className="pokemon-sprite" src="/img/pokemon/arbok.png" alt="Arbok sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `arbok` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 22 |
+| Espécie | `arbok` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 22 |
 | Shiny | Sim |
 | Habilidade | Intimidate |
-| Item Segurado | Air Balloon |
-| Nature | Jolly |
+| Item segurado | Air Balloon |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Coil
   - Gunkshot
@@ -75,21 +75,21 @@ title: Equipe Arroba Snake
 <img className="pokemon-sprite" src="/img/pokemon/seviper.png" alt="Seviper sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `seviper` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 22 |
+| Espécie | `seviper` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 22 |
 | Shiny | Sim |
 | Habilidade | Infiltrator |
-| Item Segurado | Assault Vest |
-| Nature | Modest |
+| Item segurado | Assault Vest |
+| Natureza | Modest |
 | EVs | 240 HP / 240 SpA / 16 SpD / 12 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Sludgewave
   - Darkpulse
@@ -100,21 +100,21 @@ title: Equipe Arroba Snake
 <img className="pokemon-sprite" src="/img/pokemon/servine.png" alt="Servine sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `servine` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 22 |
+| Espécie | `servine` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 22 |
 | Shiny | Sim |
 | Habilidade | Contrary |
-| Item Segurado | Eviolite |
-| Nature | Timid |
+| Item segurado | Eviolite |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: water |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: water |
 
-**Movimentoset**
+**Golpes**
 
   - Synthesis
   - Toxic
@@ -122,30 +122,30 @@ title: Equipe Arroba Snake
   - Terablast
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Spread damage is a major pressure point through Rockslide, Sludgewave.
+- Dano em área é um grande ponto de pressão por meio de Rockslide, Sludgewave.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Coil.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Focus Sash leads can guarantee tempo moves unless double-targeted or chipped.
 - Assault Vest users improve special bulk and make neutral trades harder.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_team_arroba_snake.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_team_arroba_snake.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_team_arroba_snake.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_team_arroba_snake.json`

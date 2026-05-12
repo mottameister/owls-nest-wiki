@@ -4,42 +4,42 @@ title: Admin Marru
 
 # Admin Marru
 
-## Encounter Overview
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_admin_marru` |
-| Category | Admin |
-| Campaign Order | 20 / 26 |
-| Level Cap | 76 |
-| Battle Format | `GEN_9_DOUBLES` |
-| Difficulty | ★★★★★ |
-| Archetype | Rain offense / speed control |
-| Unlock Requirement | `tdc_lider_tuta_o_tormento` |
-| Healing Bag | Full Restore x2 |
+| ID do treinador | `tdc_admin_marru` |
+| Categoria | Admin |
+| Ordem na campanha | 20 / 26 |
+| Limite de nível | 76 |
+| Formato de batalha | `GEN_9_DOUBLES` |
+| Dificuldade | ★★★★★ |
+| Arquétipo | Ofensiva de chuva / controle de velocidade |
+| Requisito de desbloqueio | `tdc_lider_tuta_o_tormento` |
+| Bolsa de cura | Full Restore x2 |
 
-## Team
+## Equipe
 
 ### 1. Miraidon (Miraidon)
 
 <img className="pokemon-sprite" src="/img/pokemon/miraidon.png" alt="Miraidon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `miraidon` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 76 |
-| Shiny | Yes |
-| Ability | Hadronengine |
-| Held Item | Terrain Extender |
-| Nature | Timid |
+| Espécie | `miraidon` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 76 |
+| Shiny | Sim |
+| Habilidade | Hadronengine |
+| Item segurado | Terrain Extender |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Electrodrift
   - Dracometeor
@@ -50,21 +50,21 @@ title: Admin Marru
 <img className="pokemon-sprite" src="/img/pokemon/raichu.png" alt="Raichu sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `raichu` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 76 |
-| Shiny | Yes |
-| Ability | Surgesurfer |
-| Held Item | Life Orb |
-| Nature | Timid |
+| Espécie | `raichu` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 76 |
+| Shiny | Sim |
+| Habilidade | Surgesurfer |
+| Item segurado | Life Orb |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Thunderbolt
   - Voltswitch
@@ -75,21 +75,21 @@ title: Admin Marru
 <img className="pokemon-sprite" src="/img/pokemon/ragingbolt.png" alt="Ragingbolt sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `ragingbolt` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 76 |
-| Shiny | No |
-| Ability | Protosynthesis |
-| Held Item | Booster Energy |
-| Nature | Modest |
+| Espécie | `ragingbolt` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 76 |
+| Shiny | Não |
+| Habilidade | Protosynthesis |
+| Item segurado | Booster Energy |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Risingvoltage
   - Voltswitch
@@ -100,21 +100,21 @@ title: Admin Marru
 <img className="pokemon-sprite" src="/img/pokemon/toxtricity.png" alt="Toxtricity sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `toxtricity` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 76 |
-| Shiny | No |
-| Ability | Punkrock |
-| Held Item | Assault Vest |
-| Nature | Modest |
+| Espécie | `toxtricity` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 76 |
+| Shiny | Não |
+| Habilidade | Punkrock |
+| Item segurado | Assault Vest |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | tera: flying |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: flying |
 
-**Moveset**
+**Golpes**
 
   - Hypervoice
   - Overdrive
@@ -125,21 +125,21 @@ title: Admin Marru
 <img className="pokemon-sprite" src="/img/pokemon/eelektross.png" alt="Eelektross sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `eelektross` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 76 |
-| Shiny | No |
-| Ability | Levitate |
-| Held Item | Eelektrossite |
-| Nature | Jolly |
+| Espécie | `eelektross` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 76 |
+| Shiny | Não |
+| Habilidade | Levitate |
+| Item segurado | Eelektrossite |
+| Natureza | Jolly |
 | EVs | 248 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Closecombat
   - Supercellslam
@@ -150,21 +150,21 @@ title: Admin Marru
 <img className="pokemon-sprite" src="/img/pokemon/golem.png" alt="Golem sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `golem` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 76 |
-| Shiny | Yes |
-| Ability | Galvanize |
-| Held Item | Rockium Z |
-| Nature | Adamant |
+| Espécie | `golem` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 76 |
+| Shiny | Sim |
+| Habilidade | Galvanize |
+| Item segurado | Rockium Z |
+| Natureza | Adamant |
 | EVs | 252 HP / 248 Atk / 4 SpD / 4 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Bodyslam
   - Rockslide
@@ -172,33 +172,33 @@ title: Admin Marru
   - Earthquake
 
 
-## Competitive Analysis
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Primary field plan: Electric terrain support enables specific sweepers and chip pressure.
+- Plano principal de campo: o suporte de terreno elétrico habilita sweepers específicos e pressão por dano residual.
 - Speed control tools: Autotomize.
-- Spread damage is a major pressure point through Dazzlinggleam, Earthquake, Hypervoice, Rockslide, Sludgewave.
+- Dano em área é um grande ponto de pressão por meio de Dazzlinggleam, Earthquake, Hypervoice, Rockslide, Sludgewave.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Autotomize, Nastyplot.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Assault Vest users improve special bulk and make neutral trades harder.
 - Life Orb attackers increase burst damage at the cost of recoil.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Notes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Notes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_admin_marru.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_admin_marru.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_admin_marru.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_admin_marru.json`

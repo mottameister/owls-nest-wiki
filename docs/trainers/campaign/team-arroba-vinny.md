@@ -1,45 +1,45 @@
 ---
-title: Team Arroba Vinny
+title: Equipe Arroba Vinny
 ---
 
-# Team Arroba Vinny
+# Equipe Arroba Vinny
 
-## Encounter Overview
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_team_arroba_vinny` |
-| Category | Team Arroba |
-| Campaign Order | 8 / 26 |
-| Level Cap | 36 |
-| Battle Format | `GEN_9_DOUBLES` |
-| Difficulty | ★★★☆☆ |
-| Archetype | Snow offense / special pressure |
-| Unlock Requirement | `tdc_lider_dada_o_faixa_preta` |
-| Healing Bag | Hyper Potion x2 |
+| ID do treinador | `tdc_team_arroba_vinny` |
+| Categoria | Equipe Arroba |
+| Ordem na campanha | 8 / 26 |
+| Limite de nível | 36 |
+| Formato de batalha | `GEN_9_DOUBLES` |
+| Dificuldade | ★★★☆☆ |
+| Arquétipo | Ofensiva de neve / pressão especial |
+| Requisito de desbloqueio | `tdc_lider_dada_o_faixa_preta` |
+| Bolsa de cura | Hyper Potion x2 |
 
-## Team
+## Equipe
 
 ### 1. Azumarill (Azumarill)
 
 <img className="pokemon-sprite" src="/img/pokemon/azumarill.png" alt="Azumarill sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `azumarill` |
-| Nickname | — |
-| Gender | FEMALE |
-| Level | 36 |
-| Shiny | Yes |
-| Ability | Hugepower |
-| Held Item | Choice Band |
-| Nature | Adamant |
+| Espécie | `azumarill` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 36 |
+| Shiny | Sim |
+| Habilidade | Hugepower |
+| Item segurado | Choice Band |
+| Natureza | Adamant |
 | EVs | 252 HP / 252 Atk / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | tera: water |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: water |
 
-**Moveset**
+**Golpes**
 
   - Aquajet
   - Bodyslam
@@ -50,21 +50,21 @@ title: Team Arroba Vinny
 <img className="pokemon-sprite" src="/img/pokemon/ninetales.png" alt="Ninetales sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `ninetales` |
-| Nickname | — |
-| Gender | FEMALE |
-| Level | 36 |
-| Shiny | Yes |
-| Ability | Snowwarning |
-| Held Item | Icy Rock |
-| Nature | Timid |
+| Espécie | `ninetales` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 36 |
+| Shiny | Sim |
+| Habilidade | Snowwarning |
+| Item segurado | Icy Rock |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Auroraveil
   - Blizzard
@@ -75,21 +75,21 @@ title: Team Arroba Vinny
 <img className="pokemon-sprite" src="/img/pokemon/primarina.png" alt="Primarina sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `primarina` |
-| Nickname | — |
-| Gender | FEMALE |
-| Level | 36 |
-| Shiny | Yes |
-| Ability | Liquidvoice |
-| Held Item | Primarium Z |
-| Nature | Modest |
+| Espécie | `primarina` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 36 |
+| Shiny | Sim |
+| Habilidade | Liquidvoice |
+| Item segurado | Primarium Z |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA / 4 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Sparklingaria
   - Hypervoice
@@ -100,21 +100,21 @@ title: Team Arroba Vinny
 <img className="pokemon-sprite" src="/img/pokemon/gardevoir.png" alt="Gardevoir sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `gardevoir` |
-| Nickname | — |
-| Gender | FEMALE |
-| Level | 36 |
-| Shiny | Yes |
-| Ability | Pixilate |
-| Held Item | Gardevoirite |
-| Nature | Timid |
+| Espécie | `gardevoir` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 36 |
+| Shiny | Sim |
+| Habilidade | Pixilate |
+| Item segurado | Gardevoirite |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Hypervoice
   - Psychic
@@ -122,32 +122,32 @@ title: Team Arroba Vinny
   - Vacuumwave
 
 
-## Competitive Analysis
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Primary field plan: Snow support enables specific sweepers and chip pressure.
-- Spread damage is a major pressure point through Blizzard, Dazzlinggleam, Hypervoice.
+- Plano principal de campo: o suporte de neve habilita sweepers específicos e pressão por dano residual.
+- Dano em área é um grande ponto de pressão por meio de Blizzard, Dazzlinggleam, Hypervoice.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Calmmind, Nastyplot.
 - Priority pressure can close games or deny low-HP pivots: Aquajet, Vacuumwave.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Choice items create immediate damage or speed pressure, but can be punished through positioning.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Notes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Notes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_team_arroba_vinny.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_team_arroba_vinny.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_team_arroba_vinny.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_team_arroba_vinny.json`

@@ -2,26 +2,26 @@
 sidebar_position: 2
 ---
 
-# Campaign Progression
+# Progressão da campanha
 
-The campaign follows a fixed progression based on trainer unlocks.
+A campanha segue uma progressão fixa baseada no desbloqueio de treinadores.
 
-## Structure
+## Estrutura
 
-- Linear progression gated by victories
-- Each trainer unlocks the next through `requiredDefeats`
-- Level caps increase steadily
-- Difficulty spikes occur at key milestones
+- Progressão linear travada por vitórias
+- Cada treinador desbloqueia o próximo por meio de `requiredDefeats`
+- Os limites de nível sobem de forma constante
+- Picos de dificuldade aparecem em marcos importantes
 
-## Design Philosophy
+## Filosofia de design
 
-- Early game: introduction to mechanics
-- Mid game: synergy and positioning
-- Late game: optimized teams and pressure
-- Endgame: full competitive execution
+- Início de jogo: introdução às mecânicas
+- Meio de jogo: sinergia e posicionamento
+- Fim de jogo: equipes otimizadas e pressão
+- Endgame: execução competitiva completa
 
-## Notes
+## Observações
 
-- No grinding-based progression
-- Skill-based advancement
-- Battles are designed to test decision-making
+- A progressão não depende de grind
+- O avanço é baseado em habilidade
+- As batalhas foram criadas para testar tomada de decisão

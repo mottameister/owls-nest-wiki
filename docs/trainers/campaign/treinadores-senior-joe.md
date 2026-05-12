@@ -4,42 +4,42 @@ title: Senior Joe
 
 # Senior Joe
 
-## Encounter Overview
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_treinadores_senior_joe` |
-| Category | Trainer |
-| Campaign Order | 15 / 26 |
-| Level Cap | 57 |
-| Battle Format | `GEN_9_DOUBLES` |
-| Difficulty | ★★★★☆ |
-| Archetype | High-tempo offensive pressure |
-| Unlock Requirement | `tdc_lider_julie_a_botanista` |
-| Healing Bag | Max Potion x2 |
+| ID do treinador | `tdc_treinadores_senior_joe` |
+| Categoria | Trainer |
+| Ordem na campanha | 15 / 26 |
+| Limite de nível | 57 |
+| Formato de batalha | `GEN_9_DOUBLES` |
+| Dificuldade | ★★★★☆ |
+| Arquétipo | Pressão ofensiva de ritmo alto |
+| Requisito de desbloqueio | `tdc_lider_julie_a_botanista` |
+| Bolsa de cura | Max Potion x2 |
 
-## Team
+## Equipe
 
 ### 1. Blastoise (Blastoise)
 
 <img className="pokemon-sprite" src="/img/pokemon/blastoise.png" alt="Blastoise sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `blastoise` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 57 |
-| Shiny | No |
-| Ability | Megalauncher |
-| Held Item | Blastoisinite |
-| Nature | Modest |
+| Espécie | `blastoise` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 57 |
+| Shiny | Não |
+| Habilidade | Megalauncher |
+| Item segurado | Blastoisinite |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA / 4 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Waterpulse
   - Dragonpulse
@@ -50,21 +50,21 @@ title: Senior Joe
 <img className="pokemon-sprite" src="/img/pokemon/gyarados.png" alt="Gyarados sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `gyarados` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 57 |
-| Shiny | Yes |
-| Ability | Intimidate |
-| Held Item | Assault Vest |
-| Nature | Adamant |
+| Espécie | `gyarados` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 57 |
+| Shiny | Sim |
+| Habilidade | Intimidate |
+| Item segurado | Assault Vest |
+| Natureza | Adamant |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: ground |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: ground |
 
-**Moveset**
+**Golpes**
 
   - Waterfall
   - Bulldoze
@@ -75,21 +75,21 @@ title: Senior Joe
 <img className="pokemon-sprite" src="/img/pokemon/alakazam.png" alt="Alakazam sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `alakazam` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 57 |
-| Shiny | No |
-| Ability | Innerfocus |
-| Held Item | Choice Specs |
-| Nature | Timid |
+| Espécie | `alakazam` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 57 |
+| Shiny | Não |
+| Habilidade | Innerfocus |
+| Item segurado | Choice Specs |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Dazzlinggleam
   - Psychic
@@ -100,21 +100,21 @@ title: Senior Joe
 <img className="pokemon-sprite" src="/img/pokemon/snorlax.png" alt="Snorlax sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `snorlax` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 57 |
-| Shiny | Yes |
-| Ability | Thickfat |
-| Held Item | Leftovers |
-| Nature | Careful |
+| Espécie | `snorlax` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 57 |
+| Shiny | Sim |
+| Habilidade | Thickfat |
+| Item segurado | Leftovers |
+| Natureza | Careful |
 | EVs | 248 HP / 8 Atk / 248 SpD / 4 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Bodypress
   - Bodyslam
@@ -125,21 +125,21 @@ title: Senior Joe
 <img className="pokemon-sprite" src="/img/pokemon/arcanine.png" alt="Arcanine sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `arcanine` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 57 |
-| Shiny | No |
-| Ability | Intimidate |
-| Held Item | Life Orb |
-| Nature | Jolly |
+| Espécie | `arcanine` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 57 |
+| Shiny | Não |
+| Habilidade | Intimidate |
+| Item segurado | Life Orb |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Closecombat
   - Extremespeed
@@ -150,21 +150,21 @@ title: Senior Joe
 <img className="pokemon-sprite" src="/img/pokemon/mewtwo.png" alt="Mewtwo sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `mewtwo` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 57 |
-| Shiny | No |
-| Ability | Pressure |
-| Held Item | Expert Belt |
-| Nature | Timid |
+| Espécie | `mewtwo` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 57 |
+| Shiny | Não |
+| Habilidade | Pressure |
+| Item segurado | Expert Belt |
+| Natureza | Timid |
 | EVs | 252 SpA / 8 SpD / 248 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Psystrike
   - Shadowball
@@ -172,32 +172,32 @@ title: Senior Joe
   - Aurasphere
 
 
-## Competitive Analysis
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Spread damage is a major pressure point through Bulldoze, Dazzlinggleam.
+- Dano em área é um grande ponto de pressão por meio de Bulldoze, Dazzlinggleam.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Dragondance.
 - Priority pressure can close games or deny low-HP pivots: Extremespeed.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Choice items create immediate damage or speed pressure, but can be punished through positioning.
 - Assault Vest users improve special bulk and make neutral trades harder.
 - Life Orb attackers increase burst damage at the cost of recoil.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Notes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Notes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_treinadores_senior_joe.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_treinadores_senior_joe.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_treinadores_senior_joe.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_treinadores_senior_joe.json`

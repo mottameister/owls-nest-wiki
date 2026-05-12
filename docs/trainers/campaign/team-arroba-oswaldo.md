@@ -1,45 +1,45 @@
 ---
-title: Team Arroba Oswaldo
+title: Equipe Arroba Oswaldo
 ---
 
-# Team Arroba Oswaldo
+# Equipe Arroba Oswaldo
 
-## Encounter Overview
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_team_arroba_oswaldo` |
-| Category | Team Arroba |
-| Campaign Order | 13 / 26 |
-| Level Cap | 51 |
-| Battle Format | `GEN_9_DOUBLES` |
-| Difficulty | ★★★★☆ |
-| Archetype | High-tempo offensive pressure |
-| Unlock Requirement | `tdc_lider_bathilda_a_assombracao` |
-| Healing Bag | Max Potion x2 |
+| ID do treinador | `tdc_team_arroba_oswaldo` |
+| Categoria | Equipe Arroba |
+| Ordem na campanha | 13 / 26 |
+| Limite de nível | 51 |
+| Formato de batalha | `GEN_9_DOUBLES` |
+| Dificuldade | ★★★★☆ |
+| Arquétipo | Pressão ofensiva de ritmo alto |
+| Requisito de desbloqueio | `tdc_lider_bathilda_a_assombracao` |
+| Bolsa de cura | Max Potion x2 |
 
-## Team
+## Equipe
 
 ### 1. Sneasler (Sneasler)
 
 <img className="pokemon-sprite" src="/img/pokemon/sneasler.png" alt="Sneasler sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `sneasler` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 51 |
-| Shiny | Yes |
-| Ability | Unburden |
-| Held Item | Focus Sash |
-| Nature | Adamant |
+| Espécie | `sneasler` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 51 |
+| Shiny | Sim |
+| Habilidade | Unburden |
+| Item segurado | Focus Sash |
+| Natureza | Adamant |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: dark |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: dark |
 
-**Moveset**
+**Golpes**
 
   - Closecombat
   - Direclaw
@@ -50,21 +50,21 @@ title: Team Arroba Oswaldo
 <img className="pokemon-sprite" src="/img/pokemon/toxapex.png" alt="Toxapex sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `toxapex` |
-| Nickname | — |
-| Gender | FEMALE |
-| Level | 51 |
-| Shiny | Yes |
-| Ability | Merciless |
-| Held Item | Leftovers |
-| Nature | Impish |
+| Espécie | `toxapex` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 51 |
+| Shiny | Sim |
+| Habilidade | Merciless |
+| Item segurado | Leftovers |
+| Natureza | Impish |
 | EVs | 248 HP / 8 Atk / 252 Def |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Banefulbunker
   - Recover
@@ -75,21 +75,21 @@ title: Team Arroba Oswaldo
 <img className="pokemon-sprite" src="/img/pokemon/iron_moth.png" alt="Iron Moth sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `iron_moth` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 51 |
-| Shiny | Yes |
-| Ability | Quarkdrive |
-| Held Item | Booster Energy |
-| Nature | Timid |
+| Espécie | `iron_moth` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 51 |
+| Shiny | Sim |
+| Habilidade | Quarkdrive |
+| Item segurado | Booster Energy |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Fierydance
   - Energyball
@@ -100,21 +100,21 @@ title: Team Arroba Oswaldo
 <img className="pokemon-sprite" src="/img/pokemon/gengar.png" alt="Gengar sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `gengar` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 51 |
-| Shiny | No |
-| Ability | Cursedbody |
-| Held Item | Choice Scarf |
-| Nature | Timid |
+| Espécie | `gengar` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 51 |
+| Shiny | Não |
+| Habilidade | Cursedbody |
+| Item segurado | Choice Scarf |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Dazzlinggleam
   - Sludgewave
@@ -125,21 +125,21 @@ title: Team Arroba Oswaldo
 <img className="pokemon-sprite" src="/img/pokemon/nidoqueen.png" alt="Nidoqueen sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `nidoqueen` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 51 |
-| Shiny | Yes |
-| Ability | Sheerforce |
-| Held Item | Groundium Z |
-| Nature | Modest |
+| Espécie | `nidoqueen` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 51 |
+| Shiny | Sim |
+| Habilidade | Sheerforce |
+| Item segurado | Groundium Z |
+| Natureza | Modest |
 | EVs | 248 HP / 252 SpA / 8 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Earthpower
   - Flamethrower
@@ -150,21 +150,21 @@ title: Team Arroba Oswaldo
 <img className="pokemon-sprite" src="/img/pokemon/dragalge.png" alt="Dragalge sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `dragalge` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 51 |
-| Shiny | Yes |
-| Ability | Poisonpoint |
-| Held Item | Dragalgite |
-| Nature | Modest |
+| Espécie | `dragalge` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 51 |
+| Shiny | Sim |
+| Habilidade | Poisonpoint |
+| Item segurado | Dragalgite |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA / 4 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Dracometeor
   - Scald
@@ -172,31 +172,31 @@ title: Team Arroba Oswaldo
   - Thunderbolt
 
 
-## Competitive Analysis
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Spread damage is a major pressure point through Dazzlinggleam, Discharge, Sludgewave.
+- Dano em área é um grande ponto de pressão por meio de Dazzlinggleam, Discharge, Sludgewave.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Swordsdance.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Choice items create immediate damage or speed pressure, but can be punished through positioning.
 - Focus Sash leads can guarantee tempo moves unless double-targeted or chipped.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Notes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Notes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_team_arroba_oswaldo.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_team_arroba_oswaldo.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_team_arroba_oswaldo.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_team_arroba_oswaldo.json`

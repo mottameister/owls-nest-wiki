@@ -1,0 +1,18 @@
+{
+  "sidebar.tutorialSidebar.category.Campanha": {
+    "message": "Campaign",
+    "description": "The label for category Campanha in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Treinadores": {
+    "message": "Trainers",
+    "description": "The label for category Treinadores in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Encontros da campanha": {
+    "message": "Campaign Encounters",
+    "description": "The label for category Encontros da campanha in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mecânicas": {
+    "message": "Mechanics",
+    "description": "The label for category Mecânicas in sidebar tutorialSidebar"
+  }
+}

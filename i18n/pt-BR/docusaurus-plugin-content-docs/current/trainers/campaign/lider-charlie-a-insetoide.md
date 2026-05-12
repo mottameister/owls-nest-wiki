@@ -4,19 +4,19 @@ title: Charlie, A Insetoide
 
 # Charlie, A Insetoide
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_lider_charlie_a_insetoide` |
-| Category | Leader |
-| Campanha Order | 4 / 26 |
-| Limite de Nível | 24 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_lider_charlie_a_insetoide` |
+| Categoria | Líder |
+| Ordem na campanha | 4 / 26 |
+| Limite de nível | 24 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★☆☆☆ |
-| Archetype | Setup-oriented doubles core |
-| Unlock Requirement | `tdc_team_arroba_snake` |
-| Healing Bag | Super Potion x2 |
+| Arquétipo | Núcleo de duplas focado em setup |
+| Requisito de desbloqueio | `tdc_team_arroba_snake` |
+| Bolsa de cura | Super Potion x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Charlie, A Insetoide
 <img className="pokemon-sprite" src="/img/pokemon/shedinja.png" alt="Shedinja sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `shedinja` |
-| Nickname | — |
-| Gênero | GENDERLESS |
-| Level | 24 |
+| Espécie | `shedinja` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 24 |
 | Shiny | Sim |
 | Habilidade | Wonderguard |
-| Item Segurado | Safety Goggles |
-| Nature | Jolly |
+| Item segurado | Safety Goggles |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 Def / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: electric |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: electric |
 
-**Movimentoset**
+**Golpes**
 
   - Leechlife
   - Swordsdance
@@ -50,21 +50,21 @@ title: Charlie, A Insetoide
 <img className="pokemon-sprite" src="/img/pokemon/dustox.png" alt="Dustox sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `dustox` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 24 |
+| Espécie | `dustox` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 24 |
 | Shiny | Sim |
 | Habilidade | Shielddust |
-| Item Segurado | Assault Vest |
-| Nature | Modest |
+| Item segurado | Assault Vest |
+| Natureza | Modest |
 | EVs | 248 HP / 244 SpA / 8 SpD / 8 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Bugbuzz
   - Energyball
@@ -75,21 +75,21 @@ title: Charlie, A Insetoide
 <img className="pokemon-sprite" src="/img/pokemon/butterfree.png" alt="Butterfree sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `butterfree` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 24 |
+| Espécie | `butterfree` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 24 |
 | Shiny | Sim |
 | Habilidade | Compoundeyes |
-| Item Segurado | Leftovers |
-| Nature | Modest |
+| Item segurado | Leftovers |
+| Natureza | Modest |
 | EVs | 16 HP / 240 SpA / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Quiverdance
   - Sleeppowder
@@ -100,21 +100,21 @@ title: Charlie, A Insetoide
 <img className="pokemon-sprite" src="/img/pokemon/scyther.png" alt="Scyther sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `scyther` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 24 |
+| Espécie | `scyther` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 24 |
 | Shiny | Sim |
 | Habilidade | Technician |
-| Item Segurado | Buginium Z |
-| Nature | Jolly |
+| Item segurado | Buginium Z |
+| Natureza | Jolly |
 | EVs | 248 Atk / 20 SpD / 236 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Bugbite
   - Dualwingbeat
@@ -122,30 +122,30 @@ title: Charlie, A Insetoide
   - Trailblaze
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
 - Speed control tools: Trailblaze.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Quiverdance, Swordsdance.
 - Priority pressure can close games or deny low-HP pivots: Shadowsneak, Suckerpunch.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Assault Vest users improve special bulk and make neutral trades harder.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_lider_charlie_a_insetoide.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_lider_charlie_a_insetoide.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_lider_charlie_a_insetoide.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_lider_charlie_a_insetoide.json`

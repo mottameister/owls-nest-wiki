@@ -4,42 +4,42 @@ title: Elite 4 Allahu
 
 # Elite 4 Allahu
 
-## Encounter Overview
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_e4_allahu` |
-| Category | Elite Four |
-| Campaign Order | 24 / 26 |
-| Level Cap | 80 |
-| Battle Format | `GEN_9_DOUBLES` |
-| Difficulty | ★★★★★ |
-| Archetype | High-tempo offensive pressure |
-| Unlock Requirement | `tdc_e4_peteca` |
-| Healing Bag | Full Restore x2 |
+| ID do treinador | `tdc_e4_allahu` |
+| Categoria | Elite 4 |
+| Ordem na campanha | 24 / 26 |
+| Limite de nível | 80 |
+| Formato de batalha | `GEN_9_DOUBLES` |
+| Dificuldade | ★★★★★ |
+| Arquétipo | Pressão ofensiva de ritmo alto |
+| Requisito de desbloqueio | `tdc_e4_peteca` |
+| Bolsa de cura | Full Restore x2 |
 
-## Team
+## Equipe
 
 ### 1. Groudon (Groudon)
 
 <img className="pokemon-sprite" src="/img/pokemon/groudon.png" alt="Groudon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `groudon` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 80 |
-| Shiny | Yes |
-| Ability | Desolateland |
-| Held Item | Red Orb |
-| Nature | Adamant |
+| Espécie | `groudon` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 80 |
+| Shiny | Sim |
+| Habilidade | Desolateland |
+| Item segurado | Red Orb |
+| Natureza | Adamant |
 | EVs | 4 HP / 252 Atk / 252 Def |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Precipiceblades
   - Heatcrash
@@ -50,21 +50,21 @@ title: Elite 4 Allahu
 <img className="pokemon-sprite" src="/img/pokemon/venusaur.png" alt="Venusaur sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `venusaur` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 80 |
-| Shiny | Yes |
-| Ability | Chlorophyll |
-| Held Item | Leftovers |
-| Nature | Modest |
+| Espécie | `venusaur` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
+| Shiny | Sim |
+| Habilidade | Chlorophyll |
+| Item segurado | Leftovers |
+| Natureza | Modest |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | tera: water |
+| Mecânicas especiais | tera: water |
 
-**Moveset**
+**Golpes**
 
   - Sleeppowder
   - Solarbeam
@@ -75,21 +75,21 @@ title: Elite 4 Allahu
 <img className="pokemon-sprite" src="/img/pokemon/houndoom.png" alt="Houndoom sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `houndoom` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 80 |
-| Shiny | Yes |
-| Ability | Solarpower |
-| Held Item | Houndoominite |
-| Nature | Timid |
+| Espécie | `houndoom` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
+| Shiny | Sim |
+| Habilidade | Solarpower |
+| Item segurado | Houndoominite |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Flamethrower
   - Darkpulse
@@ -100,21 +100,21 @@ title: Elite 4 Allahu
 <img className="pokemon-sprite" src="/img/pokemon/gougingfire.png" alt="Gougingfire sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `gougingfire` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 80 |
-| Shiny | Yes |
-| Ability | Protosynthesis |
-| Held Item | Choice Band |
-| Nature | Jolly |
+| Espécie | `gougingfire` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 80 |
+| Shiny | Sim |
+| Habilidade | Protosynthesis |
+| Item segurado | Choice Band |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Ragingfury
   - Dragonclaw
@@ -125,21 +125,21 @@ title: Elite 4 Allahu
 <img className="pokemon-sprite" src="/img/pokemon/incineroar.png" alt="Incineroar sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `incineroar` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 80 |
-| Shiny | Yes |
-| Ability | Intimidate |
-| Held Item | Incinium Z |
-| Nature | Impish |
+| Espécie | `incineroar` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 80 |
+| Shiny | Sim |
+| Habilidade | Intimidate |
+| Item segurado | Incinium Z |
+| Natureza | Impish |
 | EVs | 252 HP / 128 Def / 128 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Partingshot
   - Fakeout
@@ -150,21 +150,21 @@ title: Elite 4 Allahu
 <img className="pokemon-sprite" src="/img/pokemon/walkingwake.png" alt="Walkingwake sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `walkingwake` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 80 |
-| Shiny | No |
-| Ability | Protosynthesis |
-| Held Item | Choice Scarf |
-| Nature | Modest |
+| Espécie | `walkingwake` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 80 |
+| Shiny | Não |
+| Habilidade | Protosynthesis |
+| Item segurado | Choice Scarf |
+| Natureza | Modest |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Dracometeor
   - Hydrosteam
@@ -172,32 +172,32 @@ title: Elite 4 Allahu
   - Dragondance
 
 
-## Competitive Analysis
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Primary field plan: Harsh sun support enables specific sweepers and chip pressure.
-- Spread damage is a major pressure point through Precipiceblades.
+- Plano principal de campo: o suporte de sol forte habilita sweepers específicos e pressão por dano residual.
+- Dano em área é um grande ponto de pressão por meio de Precipiceblades.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Dragondance.
 - Priority pressure can close games or deny low-HP pivots: Fakeout.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Choice items create immediate damage or speed pressure, but can be punished through positioning.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Notes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Notes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_e4_allahu.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_e4_allahu.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_e4_allahu.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_e4_allahu.json`

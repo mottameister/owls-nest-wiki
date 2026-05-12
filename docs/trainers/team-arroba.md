@@ -1,15 +1,15 @@
-# Team Arroba
+# Equipe Arroba
 
-Team Arroba is the campaign's enemy faction.
+A Equipe Arroba é a facção inimiga da campanha.
 
-## Battle Identity
+## Identidade de batalha
 
-Team Arroba fights are designed to feel aggressive, disruptive, and mechanically varied.
+As lutas contra a Equipe Arroba foram criadas para parecer agressivas, disruptivas e mecanicamente variadas.
 
-Common elements include:
+Elementos comuns incluem:
 
-- Setup pressure
-- Status effects
-- Strong held items
-- Mixed offensive threats
-- Synergistic type themes
+- Pressão de setup
+- Efeitos de status
+- Itens segurados fortes
+- Ameaças ofensivas mistas
+- Temas de tipo com sinergia

@@ -1,48 +1,50 @@
 ---
 sidebar_position: 1
 slug: /
-title: Wiki Owl's Nest
+title: Wiki da Toca da Coruja
 ---
 
-# Wiki Owl's Nest
+![Banner da Toca da Coruja](/img/home-banner.png)
 
-Technical documentation for the **A Toca da Coruja** campaign.
+# Wiki da Toca da Coruja
 
-Built on top of **Radical Cobblemon Treinadores**.
+Documentação técnica da campanha **A Toca da Coruja**.
+
+Construída sobre o **Radical Cobblemon Trainers**.
 
 ---
 
-## Principais Recursos
+## Principais recursos
 
 - Progressão estruturada
-- Foco em batalhas em dupla (estilo VGC)
+- Foco em batalhas em dupla no estilo VGC
 - Treinadores personalizados com equipes únicas
-- Escalonamento progressivo de dificuldade
-- Mecânicas avançadas (Tera, Mega, Z-Movimentos)
+- Escalada de dificuldade progressiva
+- Mecânicas avançadas: Tera, Mega Evolução e Z-Moves
 
 ---
 
-## O que é isso?
+## O que é isto?
 
-Owl's Nest is a curated Cobblemon experience focused on:
+A Toca da Coruja é uma experiência curada de Cobblemon focada em:
 
-- Competitive-style battles
-- Narrative progression through trainers
-- Balanced difficulty curve from early to late game
-- Unique identities for each trainer
-
----
-
-## Primeiros Passos
-
-👉 Check the **Campanha** section to understand progression  
-👉 Explore **Treinadores** to see teams and strategies  
-👉 Review **Mecânicas** for battle rules and systems  
+- Batalhas com pegada competitiva
+- Progressão narrativa por meio de treinadores
+- Curva de dificuldade equilibrada do começo ao fim da campanha
+- Identidade própria para cada treinador
 
 ---
 
-## Próximo
+## Começando
 
-Continue to:
+👉 Confira a seção **Campanha** para entender a progressão
+👉 Explore **Treinadores** para ver equipes e estratégias
+👉 Consulte **Mecânicas** para conhecer regras e sistemas de batalha
 
-➡️ Campanha Overview
+---
+
+## Próximo passo
+
+Continue em:
+
+➡️ Visão geral da campanha

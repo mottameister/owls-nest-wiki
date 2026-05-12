@@ -2,22 +2,22 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
-  title: "Owl's Nest Wiki",
-  tagline: "Radical Cobblemon Trainers Campaign",
+  title: 'Wiki da Toca da Coruja',
+  tagline: 'Campanha Radical Cobblemon Trainers',
   favicon: 'img/favicon.png',
 
   url: 'https://wiki.mottameister.xyz',
   baseUrl: '/',
 
   organizationName: 'mottameister',
-  projectName: 'owls-nest-wiki',
+  projectName: 'toca-da-coruja-campanha',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-  defaultLocale: 'en',
-  locales: ['en', 'pt-BR'],
+  defaultLocale: 'pt-BR',
+  locales: ['pt-BR', 'en'],
   localeConfigs: {
     en: {
       label: 'English',
@@ -44,7 +44,7 @@ const config = {
     ],
   ],
 
-  
+
 
   headTags: [
   {
@@ -64,26 +64,26 @@ const config = {
 ],
 
   themeConfig: {
-    
+
   metadata: [
-  { name: 'keywords', content: 'Cobblemon, Minecraft Pokemon mod, VGC battles, Cobblemon trainers, Radical Cobblemon Trainers' },
-  { name: 'description', content: "Owl's Nest is a competitive Cobblemon campaign featuring structured progression, VGC-style battles, and custom trainers." },
+  { name: 'keywords', content: 'Cobblemon, mod de Pokémon para Minecraft, batalhas VGC, treinadores Cobblemon, Radical Cobblemon Trainers' },
+  { name: 'description', content: 'A Toca da Coruja é uma campanha competitiva de Cobblemon com progressão estruturada, batalhas no estilo VGC e treinadores personalizados.' },
   ],
     image: 'img/social-card.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: "Owl's Nest Wiki",
+      title: 'Wiki da Toca da Coruja',
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'Documentação',
         },
         {
-          href: 'https://github.com/mottameister/owls-nest-wiki',
+          href: 'https://github.com/mottameister/toca-da-coruja-campanha',
           label: 'GitHub',
           position: 'right',
         },
@@ -97,10 +97,10 @@ const config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Documentação',
           items: [
             {
-              label: "Owl's Nest Wiki",
+              label: 'Wiki da Toca da Coruja',
               to: '/',
             },
             {
@@ -110,7 +110,7 @@ const config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Comunidade',
           items: [
             {
               label: 'Discord',
@@ -123,16 +123,16 @@ const config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Mais',
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/mottameister/owls-nest-wiki',
+              href: 'https://github.com/mottameister/toca-da-coruja-campanha',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} MottaMeister. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} MottaMeister. Construído com Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

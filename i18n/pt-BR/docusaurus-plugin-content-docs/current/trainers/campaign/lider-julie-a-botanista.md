@@ -4,19 +4,19 @@ title: Julie, A Botanista
 
 # Julie, A Botanista
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_lider_julie_a_botanista` |
-| Category | Leader |
-| Campanha Order | 14 / 26 |
-| Limite de Nível | 54 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_lider_julie_a_botanista` |
+| Categoria | Líder |
+| Ordem na campanha | 14 / 26 |
+| Limite de nível | 54 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★★★☆ |
-| Archetype | Rain offense / speed control |
-| Unlock Requirement | `tdc_team_arroba_oswaldo` |
-| Healing Bag | Max Potion x2 |
+| Arquétipo | Ofensiva de chuva / controle de velocidade |
+| Requisito de desbloqueio | `tdc_team_arroba_oswaldo` |
+| Bolsa de cura | Max Potion x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Julie, A Botanista
 <img className="pokemon-sprite" src="/img/pokemon/rillaboom.png" alt="Rillaboom sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `rillaboom` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 54 |
+| Espécie | `rillaboom` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 54 |
 | Shiny | Sim |
 | Habilidade | Grassysurge |
-| Item Segurado | Grassy Seed |
-| Nature | Jolly |
+| Item segurado | Grassy Seed |
+| Natureza | Jolly |
 | EVs | 248 Atk / 8 SpD / 248 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Drumbeating
   - Grassyglide
@@ -50,21 +50,21 @@ title: Julie, A Botanista
 <img className="pokemon-sprite" src="/img/pokemon/ferrothorn.png" alt="Ferrothorn sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `ferrothorn` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 54 |
+| Espécie | `ferrothorn` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 54 |
 | Shiny | Sim |
 | Habilidade | Ironbarbs |
-| Item Segurado | Rocky Helmet |
-| Nature | Calm |
+| Item segurado | Rocky Helmet |
+| Natureza | Calm |
 | EVs | 248 HP / 8 Def / 252 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Leechseed
   - Stealthrock
@@ -75,21 +75,21 @@ title: Julie, A Botanista
 <img className="pokemon-sprite" src="/img/pokemon/hydrapple.png" alt="Hydrapple sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `hydrapple` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 54 |
+| Espécie | `hydrapple` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 54 |
 | Shiny | Sim |
 | Habilidade | Regenerator |
-| Item Segurado | Assault Vest |
-| Nature | Modest |
+| Item segurado | Assault Vest |
+| Natureza | Modest |
 | EVs | 252 HP / 252 SpA |
-| IVs | 31 all |
-| Gimmicks | tera: fighting |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: fighting |
 
-**Movimentoset**
+**Golpes**
 
   - Ficklebeam
   - Energyball
@@ -100,21 +100,21 @@ title: Julie, A Botanista
 <img className="pokemon-sprite" src="/img/pokemon/meowscarada.png" alt="Meowscarada sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `meowscarada` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 54 |
+| Espécie | `meowscarada` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 54 |
 | Shiny | Sim |
 | Habilidade | Protean |
-| Item Segurado | Life Orb |
-| Nature | Jolly |
+| Item segurado | Life Orb |
+| Natureza | Jolly |
 | EVs | 248 Atk / 8 SpD / 248 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Uturn
   - Flowertrick
@@ -125,21 +125,21 @@ title: Julie, A Botanista
 <img className="pokemon-sprite" src="/img/pokemon/breloom.png" alt="Breloom sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `breloom` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 54 |
+| Espécie | `breloom` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 54 |
 | Shiny | Sim |
 | Habilidade | Technician |
-| Item Segurado | Fightinium Z |
-| Nature | Jolly |
+| Item segurado | Fightinium Z |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Bulletseed
   - Machpunch
@@ -150,21 +150,21 @@ title: Julie, A Botanista
 <img className="pokemon-sprite" src="/img/pokemon/meganium.png" alt="Meganium sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `meganium` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 54 |
+| Espécie | `meganium` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 54 |
 | Shiny | Sim |
 | Habilidade | Megasol |
-| Item Segurado | Meganiumite |
-| Nature | Timid |
+| Item segurado | Meganiumite |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Solarbeam
   - Dazzlinggleam
@@ -172,33 +172,33 @@ title: Julie, A Botanista
   - Weatherball
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
-- Primary field plan: Grassy terrain support enables specific sweepers and chip pressure.
-- Spread damage is a major pressure point through Dazzlinggleam.
+- Plano principal de campo: o suporte de terreno gramado habilita sweepers específicos e pressão por dano residual.
+- Dano em área é um grande ponto de pressão por meio de Dazzlinggleam.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Irondefense, Poweruppunch.
 - Priority pressure can close games or deny low-HP pivots: Grassyglide, Machpunch, Suckerpunch.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Assault Vest users improve special bulk and make neutral trades harder.
 - Life Orb attackers increase burst damage at the cost of recoil.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_lider_julie_a_botanista.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_lider_julie_a_botanista.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_lider_julie_a_botanista.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_lider_julie_a_botanista.json`

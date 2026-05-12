@@ -1,0 +1,38 @@
+{
+  "title.Documentação": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Documentação in the footer"
+  },
+  "title.Comunidade": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Comunidade in the footer"
+  },
+  "title.Mais": {
+    "message": "More",
+    "description": "The title of the footer links column with title=Mais in the footer"
+  },
+  "link.item.label.Wiki da Toca da Coruja": {
+    "message": "Owl's Nest Wiki",
+    "description": "The label of footer link with label=Wiki da Toca da Coruja linking to /"
+  },
+  "link.item.label.Download": {
+    "message": "Download",
+    "description": "The label of footer link with label=Download linking to /download"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "The label of footer link with label=X"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 MottaMeister. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

@@ -4,42 +4,42 @@ title: Juanes, O Dono da Carrocinha
 
 # Juanes, O Dono da Carrocinha
 
-## Encounter Overview
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_lider_juanes_o_dono_da_carrocinha` |
-| Category | Leader |
-| Campaign Order | 9 / 26 |
-| Level Cap | 39 |
-| Battle Format | `GEN_9_DOUBLES` |
-| Difficulty | ★★★☆☆ |
-| Archetype | High-tempo offensive pressure |
-| Unlock Requirement | `tdc_team_arroba_vinny` |
-| Healing Bag | Hyper Potion x2 |
+| ID do treinador | `tdc_lider_juanes_o_dono_da_carrocinha` |
+| Categoria | Líder |
+| Ordem na campanha | 9 / 26 |
+| Limite de nível | 39 |
+| Formato de batalha | `GEN_9_DOUBLES` |
+| Dificuldade | ★★★☆☆ |
+| Arquétipo | Pressão ofensiva de ritmo alto |
+| Requisito de desbloqueio | `tdc_team_arroba_vinny` |
+| Bolsa de cura | Hyper Potion x2 |
 
-## Team
+## Equipe
 
 ### 1. Zoroark (Zoroark)
 
 <img className="pokemon-sprite" src="/img/pokemon/zoroark.png" alt="Zoroark sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `zoroark` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 39 |
-| Shiny | Yes |
-| Ability | Illusion |
-| Held Item | Choice Specs |
-| Nature | Timid |
+| Espécie | `zoroark` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 39 |
+| Shiny | Sim |
+| Habilidade | Illusion |
+| Item segurado | Choice Specs |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 248 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Hypervoice
   - Bittermalice
@@ -50,21 +50,21 @@ title: Juanes, O Dono da Carrocinha
 <img className="pokemon-sprite" src="/img/pokemon/lycanroc.png" alt="Lycanroc sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `lycanroc` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 39 |
-| Shiny | Yes |
-| Ability | Noguard |
-| Held Item | Lycanium Z |
-| Nature | Jolly |
+| Espécie | `lycanroc` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 39 |
+| Shiny | Sim |
+| Habilidade | Noguard |
+| Item segurado | Lycanium Z |
+| Natureza | Jolly |
 | EVs | 252 Atk / 8 SpD / 248 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Playrough
   - Stoneedge
@@ -75,21 +75,21 @@ title: Juanes, O Dono da Carrocinha
 <img className="pokemon-sprite" src="/img/pokemon/luxray.png" alt="Luxray sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `luxray` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 39 |
-| Shiny | Yes |
-| Ability | Intimidate |
-| Held Item | Choice Band |
-| Nature | Adamant |
+| Espécie | `luxray` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 39 |
+| Shiny | Sim |
+| Habilidade | Intimidate |
+| Item segurado | Choice Band |
+| Natureza | Adamant |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Supercellslam
   - Agility
@@ -100,21 +100,21 @@ title: Juanes, O Dono da Carrocinha
 <img className="pokemon-sprite" src="/img/pokemon/pyroar.png" alt="Pyroar sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `pyroar` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 39 |
-| Shiny | Yes |
-| Ability | Rivalry |
-| Held Item | Pyroarite |
-| Nature | Timid |
+| Espécie | `pyroar` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 39 |
+| Shiny | Sim |
+| Habilidade | Rivalry |
+| Item segurado | Pyroarite |
+| Natureza | Timid |
 | EVs | 12 HP / 252 SpA / 244 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Darkpulse
   - Flamethrower
@@ -125,21 +125,21 @@ title: Juanes, O Dono da Carrocinha
 <img className="pokemon-sprite" src="/img/pokemon/houndstone.png" alt="Houndstone sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `houndstone` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 39 |
-| Shiny | No |
-| Ability | Fluffy |
-| Held Item | Assault Vest |
-| Nature | Adamant |
+| Espécie | `houndstone` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 39 |
+| Shiny | Não |
+| Habilidade | Fluffy |
+| Item segurado | Assault Vest |
+| Natureza | Adamant |
 | EVs | 244 HP / 248 Atk / 16 SpD |
-| IVs | 31 all |
-| Gimmicks | tera: water |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: water |
 
-**Moveset**
+**Golpes**
 
   - Lastrespects
   - Poltergeist
@@ -150,21 +150,21 @@ title: Juanes, O Dono da Carrocinha
 <img className="pokemon-sprite" src="/img/pokemon/mabosstiff.png" alt="Mabosstiff sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `mabosstiff` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 39 |
-| Shiny | Yes |
-| Ability | Guarddog |
-| Held Item | Life Orb |
-| Nature | Jolly |
+| Espécie | `mabosstiff` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 39 |
+| Shiny | Sim |
+| Habilidade | Guarddog |
+| Item segurado | Life Orb |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 244 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Crunch
   - Psychicfangs
@@ -172,33 +172,33 @@ title: Juanes, O Dono da Carrocinha
   - Bodyslam
 
 
-## Competitive Analysis
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
 - Speed control tools: Agility, Thunderwave, Trailblaze.
-- Spread damage is a major pressure point through Hypervoice.
+- Dano em área é um grande ponto de pressão por meio de Hypervoice.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Agility.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Choice items create immediate damage or speed pressure, but can be punished through positioning.
 - Assault Vest users improve special bulk and make neutral trades harder.
 - Life Orb attackers increase burst damage at the cost of recoil.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Notes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Notes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_lider_juanes_o_dono_da_carrocinha.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_lider_juanes_o_dono_da_carrocinha.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_lider_juanes_o_dono_da_carrocinha.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_lider_juanes_o_dono_da_carrocinha.json`

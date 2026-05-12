@@ -2,28 +2,28 @@
 sidebar_position: 1
 ---
 
-# Formato de Batalha
+# Formato de batalha
 
-## Core Rules
+## Regras principais
 
-- Double battles only (VGC-style)
-- AI-controlled trainers
-- Não single battles
+- Apenas batalhas em dupla no estilo VGC
+- Treinadores controlados por IA
+- Sem batalhas individuais
 
-## Mecânicas Enabled
+## Mecânicas habilitadas
 
-- Terastallization
-- Mega Evolution
-- Z-Movimentos
+- Terastalização
+- Mega Evolução
+- Z-Moves
 
-These mechanics coexist to increase strategic depth.
+Essas mecânicas coexistem para aumentar a profundidade estratégica.
 
-## AI Behavior
+## Comportamento da IA
 
-- Treinadores use optimized movesets
-- Item usage is conditional
-- Equipes are built with synergy in mind
+- Os treinadores usam movesets otimizados
+- O uso de itens é condicional
+- As equipes são montadas com sinergia em mente
 
-## Design Goal
+## Objetivo de design
 
-Simulate competitive Pokémon gameplay within Cobblemon.
+Simular uma experiência competitiva de Pokémon dentro do Cobblemon.

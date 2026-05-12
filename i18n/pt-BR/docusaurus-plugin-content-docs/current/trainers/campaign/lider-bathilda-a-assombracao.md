@@ -4,19 +4,19 @@ title: Bathilda, A Assombração
 
 # Bathilda, A Assombração
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_lider_bathilda_a_assombracao` |
-| Category | Leader |
-| Campanha Order | 12 / 26 |
-| Limite de Nível | 48 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_lider_bathilda_a_assombracao` |
+| Categoria | Líder |
+| Ordem na campanha | 12 / 26 |
+| Limite de nível | 48 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★★★☆ |
-| Archetype | Rain offense / speed control |
-| Unlock Requirement | `tdc_rival_motta_03` |
-| Healing Bag | Max Potion x2 |
+| Arquétipo | Ofensiva de chuva / controle de velocidade |
+| Requisito de desbloqueio | `tdc_rival_motta_03` |
+| Bolsa de cura | Max Potion x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Bathilda, A Assombração
 <img className="pokemon-sprite" src="/img/pokemon/cursola.png" alt="Cursola sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `cursola` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 48 |
+| Espécie | `cursola` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 48 |
 | Shiny | Sim |
 | Habilidade | Perishbody |
-| Item Segurado | Leftovers |
-| Nature | Calm |
+| Item segurado | Leftovers |
+| Natureza | Calm |
 | EVs | 248 HP / 8 SpA / 248 SpD / 4 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Curse
   - Destinybond
@@ -50,21 +50,21 @@ title: Bathilda, A Assombração
 <img className="pokemon-sprite" src="/img/pokemon/annihilape.png" alt="Annihilape sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `annihilape` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 48 |
+| Espécie | `annihilape` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 48 |
 | Shiny | Sim |
 | Habilidade | Defiant |
-| Item Segurado | Sitrus Berry |
-| Nature | Jolly |
+| Item segurado | Sitrus Berry |
+| Natureza | Jolly |
 | EVs | 248 Atk / 8 SpD / 248 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Drainpunch
   - Ragefist
@@ -75,21 +75,21 @@ title: Bathilda, A Assombração
 <img className="pokemon-sprite" src="/img/pokemon/ceruledge.png" alt="Ceruledge sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `ceruledge` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 48 |
+| Espécie | `ceruledge` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 48 |
 | Shiny | Sim |
 | Habilidade | Weakarmor |
-| Item Segurado | Ghostium Z |
-| Nature | Jolly |
+| Item segurado | Ghostium Z |
+| Natureza | Jolly |
 | EVs | 4 HP / 252 Atk / 4 SpD / 248 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Bitterblade
   - Shadowsneak
@@ -100,21 +100,21 @@ title: Bathilda, A Assombração
 <img className="pokemon-sprite" src="/img/pokemon/gholdengo.png" alt="Gholdengo sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `gholdengo` |
-| Nickname | — |
-| Gênero | GENDERLESS |
-| Level | 48 |
+| Espécie | `gholdengo` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 48 |
 | Shiny | Sim |
 | Habilidade | Goodasgold |
-| Item Segurado | White Herb |
-| Nature | Timid |
+| Item segurado | White Herb |
+| Natureza | Timid |
 | EVs | 248 SpA / 8 SpD / 248 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: steel |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: steel |
 
-**Movimentoset**
+**Golpes**
 
   - Dazzlinggleam
   - Makeitrain
@@ -125,21 +125,21 @@ title: Bathilda, A Assombração
 <img className="pokemon-sprite" src="/img/pokemon/aegislash.png" alt="Aegislash sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `aegislash` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 48 |
+| Espécie | `aegislash` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 48 |
 | Shiny | Sim |
 | Habilidade | Stancechange |
-| Item Segurado | Rocky Helmet |
-| Nature | Calm |
+| Item segurado | Rocky Helmet |
+| Natureza | Calm |
 | EVs | 240 HP / 20 SpA / 248 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Kingsshield
   - Autotomize
@@ -150,21 +150,21 @@ title: Bathilda, A Assombração
 <img className="pokemon-sprite" src="/img/pokemon/chandelure.png" alt="Chandelure sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `chandelure` |
-| Nickname | — |
-| Gênero | FEMALE |
-| Level | 48 |
+| Espécie | `chandelure` |
+| Apelido | — |
+| Gênero | Feminino |
+| Nível | 48 |
 | Shiny | Sim |
 | Habilidade | Infiltrator |
-| Item Segurado | Chandelurite |
-| Nature | Timid |
+| Item segurado | Chandelurite |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Calmmind
   - Shadowball
@@ -172,31 +172,31 @@ title: Bathilda, A Assombração
   - Darkpulse
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
 - Speed control tools: Autotomize.
-- Spread damage is a major pressure point through Dazzlinggleam, Makeitrain.
+- Dano em área é um grande ponto de pressão por meio de Dazzlinggleam, Makeitrain.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Autotomize, Calmmind, Nastyplot.
 - Priority pressure can close games or deny low-HP pivots: Shadowsneak.
 
-### Threat Profile
+### Perfil de ameaças
 
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_lider_bathilda_a_assombracao.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_lider_bathilda_a_assombracao.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_lider_bathilda_a_assombracao.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_lider_bathilda_a_assombracao.json`

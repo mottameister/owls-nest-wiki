@@ -1,45 +1,45 @@
 ---
-title: Team Arroba Admin
+title: Equipe Arroba Admin
 ---
 
-# Team Arroba Admin
+# Equipe Arroba Admin
 
-## Encounter Overview
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_team_arroba_admin` |
-| Category | Team Arroba |
-| Campaign Order | 18 / 26 |
-| Level Cap | 68 |
-| Battle Format | `GEN_9_DOUBLES` |
-| Difficulty | ★★★★☆ |
-| Archetype | High-tempo offensive pressure |
-| Unlock Requirement | `tdc_lider_gabi_a_tempestade_de_gelo` |
-| Healing Bag | Max Potion x2 |
+| ID do treinador | `tdc_team_arroba_admin` |
+| Categoria | Equipe Arroba |
+| Ordem na campanha | 18 / 26 |
+| Limite de nível | 68 |
+| Formato de batalha | `GEN_9_DOUBLES` |
+| Dificuldade | ★★★★☆ |
+| Arquétipo | Pressão ofensiva de ritmo alto |
+| Requisito de desbloqueio | `tdc_lider_gabi_a_tempestade_de_gelo` |
+| Bolsa de cura | Max Potion x2 |
 
-## Team
+## Equipe
 
 ### 1. Grimmsnarl (Grimmsnarl)
 
 <img className="pokemon-sprite" src="/img/pokemon/grimmsnarl.png" alt="Grimmsnarl sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `grimmsnarl` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 68 |
-| Shiny | Yes |
-| Ability | Prankster |
-| Held Item | Light Clay |
-| Nature | Careful |
+| Espécie | `grimmsnarl` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 68 |
+| Shiny | Sim |
+| Habilidade | Prankster |
+| Item segurado | Light Clay |
+| Natureza | Careful |
 | EVs | 252 HP / 4 Atk / 252 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Lightscreen
   - Reflect
@@ -50,21 +50,21 @@ title: Team Arroba Admin
 <img className="pokemon-sprite" src="/img/pokemon/incineroar.png" alt="Incineroar sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `incineroar` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 68 |
-| Shiny | Yes |
-| Ability | Intimidate |
-| Held Item | Sitrus Berry |
-| Nature | Adamant |
+| Espécie | `incineroar` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 68 |
+| Shiny | Sim |
+| Habilidade | Intimidate |
+| Item segurado | Sitrus Berry |
+| Natureza | Adamant |
 | EVs | 252 HP / 252 Atk / 4 SpD |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Fakeout
   - Flareblitz
@@ -75,21 +75,21 @@ title: Team Arroba Admin
 <img className="pokemon-sprite" src="/img/pokemon/hydreigon.png" alt="Hydreigon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `hydreigon` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 68 |
-| Shiny | Yes |
-| Ability | Levitate |
-| Held Item | Choice Scarf |
-| Nature | Timid |
+| Espécie | `hydreigon` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 68 |
+| Shiny | Sim |
+| Habilidade | Levitate |
+| Item segurado | Choice Scarf |
+| Natureza | Timid |
 | EVs | 252 SpA / 4 SpD / 252 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Darkpulse
   - Dracometeor
@@ -100,21 +100,21 @@ title: Team Arroba Admin
 <img className="pokemon-sprite" src="/img/pokemon/krookodile.png" alt="Krookodile sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `krookodile` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 68 |
-| Shiny | Yes |
-| Ability | Intimidate |
-| Held Item | Darkinium Z |
-| Nature | Jolly |
+| Espécie | `krookodile` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 68 |
+| Shiny | Sim |
+| Habilidade | Intimidate |
+| Item segurado | Darkinium Z |
+| Natureza | Jolly |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Closecombat
   - Earthquake
@@ -125,21 +125,21 @@ title: Team Arroba Admin
 <img className="pokemon-sprite" src="/img/pokemon/moltres.png" alt="Moltres sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `moltres` |
-| Nickname | — |
-| Gender | GENDERLESS |
-| Level | 68 |
-| Shiny | Yes |
-| Ability | Berserk |
-| Held Item | Assault Vest |
-| Nature | Modest |
+| Espécie | `moltres` |
+| Apelido | — |
+| Gênero | Sem gênero |
+| Nível | 68 |
+| Shiny | Sim |
+| Habilidade | Berserk |
+| Item segurado | Assault Vest |
+| Natureza | Modest |
 | EVs | 248 HP / 252 SpA / 8 SpD |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | tera: rock |
+| Mecânicas especiais | tera: rock |
 
-**Moveset**
+**Golpes**
 
   - Nastyplot
   - Airslash
@@ -150,21 +150,21 @@ title: Team Arroba Admin
 <img className="pokemon-sprite" src="/img/pokemon/gyarados.png" alt="Gyarados sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `gyarados` |
-| Nickname | — |
-| Gender | MALE |
-| Level | 68 |
-| Shiny | Yes |
-| Ability | Moldbreaker |
-| Held Item | Gyaradosite |
-| Nature | Adamant |
+| Espécie | `gyarados` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 68 |
+| Shiny | Sim |
+| Habilidade | Moldbreaker |
+| Item segurado | Gyaradosite |
+| Natureza | Adamant |
 | EVs | 252 Atk / 4 SpD / 252 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Moveset**
+**Golpes**
 
   - Lashout
   - Earthquake
@@ -172,33 +172,33 @@ title: Team Arroba Admin
   - Dragondance
 
 
-## Competitive Analysis
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
 - Speed control tools: Thunderwave.
-- Spread damage is a major pressure point through Earthquake, Rockslide.
+- Dano em área é um grande ponto de pressão por meio de Earthquake, Rockslide.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Dragondance, Nastyplot.
 - Priority pressure can close games or deny low-HP pivots: Fakeout.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Choice items create immediate damage or speed pressure, but can be punished through positioning.
 - Assault Vest users improve special bulk and make neutral trades harder.
-- Z-Move access creates one-time burst turns that can remove key defensive pieces.
-- Mega Evolution changes matchup dynamics and should be scouted before committing resources.
+- O acesso a Z-Move cria turnos únicos de explosão de dano capazes de remover peças defensivas importantes.
+- Mega Evolução muda a dinâmica do confronto e deve ser identificada antes de comprometer recursos importantes.
 
-### Player Preparation Notes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Notes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_team_arroba_admin.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_team_arroba_admin.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_team_arroba_admin.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_team_arroba_admin.json`

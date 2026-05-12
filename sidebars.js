@@ -3,17 +3,17 @@ const sidebars = {
     'intro',
     {
       type: 'category',
-      label: 'Campaign',
+      label: 'Campanha',
       items: ['campaign/overview', 'campaign/progression', 'campaign/full-progression'],
     },
     {
       type: 'category',
-      label: 'Trainers',
+      label: 'Treinadores',
       items: [
         'trainers/index',
         {
           type: 'category',
-          label: 'Campaign Encounters',
+          label: 'Encontros da campanha',
           items: [
             'trainers/campaign/rival-motta-01',
             'trainers/campaign/lider-aurora-a-rainha-morcego',
@@ -47,7 +47,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Mechanics',
+      label: 'Mecânicas',
       items: ['mechanics/battle-format', 'mechanics/items'],
     },
     'download',

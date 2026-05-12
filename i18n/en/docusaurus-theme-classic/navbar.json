@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Owl's Nest Wiki",
+    "description": "The title in the navbar"
+  },
+  "item.label.Documentação": {
+    "message": "Docs",
+    "description": "Navbar item with label Documentação"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

@@ -4,19 +4,19 @@ title: Dom
 
 # Dom
 
-## Visão Geral do Encontro
+## Visão geral do encontro
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Trainer ID | `tdc_treinadores_dom` |
-| Category | Trainer |
-| Campanha Order | 5 / 26 |
-| Limite de Nível | 27 |
-| Formato de Batalha | `GEN_9_DOUBLES` |
+| ID do treinador | `tdc_treinadores_dom` |
+| Categoria | Trainer |
+| Ordem na campanha | 5 / 26 |
+| Limite de nível | 27 |
+| Formato de batalha | `GEN_9_DOUBLES` |
 | Dificuldade | ★★★☆☆ |
-| Archetype | High-tempo offensive pressure |
-| Unlock Requirement | `tdc_lider_charlie_a_insetoide` |
-| Healing Bag | Super Potion x2 |
+| Arquétipo | Pressão ofensiva de ritmo alto |
+| Requisito de desbloqueio | `tdc_lider_charlie_a_insetoide` |
+| Bolsa de cura | Super Potion x2 |
 
 ## Equipe
 
@@ -25,21 +25,21 @@ title: Dom
 <img className="pokemon-sprite" src="/img/pokemon/jolteon.png" alt="Jolteon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `jolteon` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 27 |
+| Espécie | `jolteon` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 27 |
 | Shiny | Sim |
 | Habilidade | Voltabsorb |
-| Item Segurado | Air Balloon |
-| Nature | Modest |
+| Item segurado | Air Balloon |
+| Natureza | Modest |
 | EVs | 8 HP / 244 SpA / 8 SpD / 244 Spe |
 | IVs | 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe |
-| Gimmicks | — |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Agility
   - Thunderbolt
@@ -50,21 +50,21 @@ title: Dom
 <img className="pokemon-sprite" src="/img/pokemon/flareon.png" alt="Flareon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `flareon` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 27 |
+| Espécie | `flareon` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 27 |
 | Shiny | Sim |
 | Habilidade | Guts |
-| Item Segurado | Flame Orb |
-| Nature | Adamant |
+| Item segurado | Flame Orb |
+| Natureza | Adamant |
 | EVs | 248 HP / 244 Atk / 4 SpD / 8 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Flareblitz
   - Quickattack
@@ -75,21 +75,21 @@ title: Dom
 <img className="pokemon-sprite" src="/img/pokemon/umbreon.png" alt="Umbreon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `umbreon` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 27 |
+| Espécie | `umbreon` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 27 |
 | Shiny | Sim |
 | Habilidade | Innerfocus |
-| Item Segurado | Assault Vest |
-| Nature | Adamant |
+| Item segurado | Assault Vest |
+| Natureza | Adamant |
 | EVs | 244 HP / 248 Atk / 8 SpD / 8 Spe |
-| IVs | 31 all |
-| Gimmicks | — |
+| IVs | 31 em todos |
+| Mecânicas especiais | — |
 
-**Movimentoset**
+**Golpes**
 
   - Crunch
   - Trailblaze
@@ -100,21 +100,21 @@ title: Dom
 <img className="pokemon-sprite" src="/img/pokemon/leafeon.png" alt="Leafeon sprite" />
 
 
-| Field | Value |
+| Campo | Valor |
 |---|---|
-| Species | `leafeon` |
-| Nickname | — |
-| Gênero | MALE |
-| Level | 27 |
+| Espécie | `leafeon` |
+| Apelido | — |
+| Gênero | Masculino |
+| Nível | 27 |
 | Shiny | Sim |
 | Habilidade | Leafguard |
-| Item Segurado | Choice Scarf |
-| Nature | Naive |
+| Item segurado | Choice Scarf |
+| Natureza | Naive |
 | EVs | 8 HP / 244 Atk / 4 SpA / 244 Spe |
-| IVs | 31 all |
-| Gimmicks | tera: water |
+| IVs | 31 em todos |
+| Mecânicas especiais | tera: water |
 
-**Movimentoset**
+**Golpes**
 
   - Terablast
   - Leafblade
@@ -122,30 +122,30 @@ title: Dom
   - Knockoff
 
 
-## Competitive Análise
+## Análise competitiva
 
-### Game Plan
+### Plano de jogo
 
 - Speed control tools: Agility, Trailblaze.
 
-### Win Conditions
+### Condições de vitória
 
 - Setup-based win conditions are present: Agility.
 - Priority pressure can close games or deny low-HP pivots: Quickattack, Suckerpunch.
 
-### Threat Profile
+### Perfil de ameaças
 
 - Choice items create immediate damage or speed pressure, but can be punished through positioning.
 - Assault Vest users improve special bulk and make neutral trades harder.
 
-### Player Preparation Nãotes
+### Preparação do jogador
 
-- Treat this as a doubles encounter first: board positioning matters more than one-on-one type advantage.
-- Identify the most important tempo piece early, then either remove it or force it into defensive play.
-- Preserve answers to the trainer's strongest endgame attacker instead of trading them too early.
-- If the trainer has field control, avoid giving free turns to weather, terrain, or speed-control setters.
+- Encare isto antes de tudo como uma batalha em dupla: o posicionamento em campo importa mais do que vantagem de tipo em um contra um.
+- Identifique cedo a peça mais importante de ritmo; depois remova essa ameaça ou force-a a jogar na defensiva.
+- Preserve respostas para o atacante mais forte do treinador no fim da luta, em vez de trocá-las cedo demais.
+- Se o treinador tiver controle de campo, evite dar turnos grátis para usuários de clima, terreno ou controle de velocidade.
 
-## Technical Nãotes
+## Notas técnicas
 
-- Source trainer file: `data/rctmod/trainers/tdc_treinadores_dom.json`
-- Source progression file: `data/rctmod/mobs/trainers/single/tdc_treinadores_dom.json`
+- Arquivo-fonte do treinador: `data/rctmod/trainers/tdc_treinadores_dom.json`
+- Arquivo-fonte de progressão: `data/rctmod/mobs/trainers/single/tdc_treinadores_dom.json`

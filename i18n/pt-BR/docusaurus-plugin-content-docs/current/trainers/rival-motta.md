@@ -1,17 +1,17 @@
 # Rival Motta
 
-Rival Motta is the main recurring rival of the campaign.
+Rival Motta é o principal rival recorrente da campanha.
 
-## Battle Identity
+## Identidade de batalha
 
-Rival Motta focuses on:
+Rival Motta se concentra em:
 
-- Sandstorm synergy
-- Physical pressure
-- Rock/Ground offensive cores
-- Gradual team evolution over the campaign
+- Sinergia com Sandstorm
+- Pressão física
+- Núcleos ofensivos de Pedra/Terra
+- Evolução gradual da equipe ao longo da campanha
 
-## Known Core
+## Núcleo conhecido
 
 - Mr. X
 - Quesadrillas
@@ -22,6 +22,6 @@ Rival Motta focuses on:
 - Pikes Peak
 - Pokedeus
 
-## Estratégia Nãotes
+## Notas de estratégia
 
-The team becomes more threatening as the campaign progresses, eventually developing into a high-pressure sand team with endgame legendary support.
+A equipe se torna mais ameaçadora conforme a campanha avança, até se transformar em um time de areia de alta pressão com suporte lendário no endgame.

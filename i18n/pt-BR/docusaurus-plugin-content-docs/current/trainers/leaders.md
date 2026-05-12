@@ -1,25 +1,25 @@
-# Leaders
+# Líderes
 
-Leaders are major campaign checkpoints.
+Os líderes são grandes pontos de controle da campanha.
 
-Each leader is built around a theme, typing identity, or battle strategy.
+Cada líder é construído em torno de um tema, uma identidade de tipo ou uma estratégia de batalha.
 
-## Leader Design
+## Design dos líderes
 
-Leader battles may include:
+As batalhas contra líderes podem incluir:
 
-- Mega Evolution
-- Z-Movimentos
-- Tera types
-- Weather or terrain strategies
-- Setup sweepers
-- Defensive cores
+- Mega Evolução
+- Z-Moves
+- Tipos Tera
+- Estratégias de clima ou terreno
+- Sweepers de setup
+- Núcleos defensivos
 
-## Examples
+## Exemplos
 
-- Aurora, the Bat Queen
-- Charlie, the Insectoid
-- Dada, the Black Belt
-- Bathilda, the Haunting
-- Gabi, the Ice Storm
-- Tuta, the Torment
+- Aurora, a Rainha Morcego
+- Charlie, a Insetoide
+- Dada, o Faixa Preta
+- Bathilda, a Assombração
+- Gabi, a Tempestade de Gelo
+- Tuta, o Tormento
